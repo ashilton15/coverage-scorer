@@ -12,13 +12,28 @@ CREDENTIALS_PATH = Path(__file__).parent.parent / "credentials.json"
 DEFAULT_SPREADSHEET_ID = "1JIXvOCmy2duAUjLaj1m1WDtD-onCoP1mjxn8AzBcTTc"
 
 
+def _has_streamlit_secret(key: str) -> bool:
+    """Safely check if a Streamlit secret exists.
+
+    Returns False if secrets file doesn't exist or key is not found.
+    """
+    try:
+        # Try to access the specific key - this will raise if:
+        # - No secrets.toml file exists (FileNotFoundError)
+        # - Key doesn't exist (KeyError)
+        _ = st.secrets[key]
+        return True
+    except Exception:
+        return False
+
+
 def get_spreadsheet_id() -> str:
     """Get the Google Spreadsheet ID.
 
     Tries Streamlit secrets first (for Streamlit Cloud deployment),
     falls back to hardcoded default (for local development).
     """
-    if "SPREADSHEET_ID" in st.secrets:
+    if _has_streamlit_secret("SPREADSHEET_ID"):
         return st.secrets["SPREADSHEET_ID"]
     return DEFAULT_SPREADSHEET_ID
 
@@ -52,19 +67,28 @@ def get_client():
     """
     global _client
     if _client is None:
-        # Try Streamlit secrets first (Streamlit Cloud)
-        if "gcp_service_account" in st.secrets:
-            credentials = Credentials.from_service_account_info(
-                st.secrets["gcp_service_account"],
-                scopes=SCOPES
-            )
-        else:
-            # Fall back to local credentials file
-            credentials = Credentials.from_service_account_file(
-                str(CREDENTIALS_PATH),
-                scopes=SCOPES
-            )
-        _client = gspread.authorize(credentials)
+        try:
+            # Try Streamlit secrets first (Streamlit Cloud)
+            if _has_streamlit_secret("gcp_service_account"):
+                print("[Google Sheets] Using Streamlit secrets for authentication")
+                credentials = Credentials.from_service_account_info(
+                    dict(st.secrets["gcp_service_account"]),
+                    scopes=SCOPES
+                )
+            else:
+                # Fall back to local credentials file
+                print(f"[Google Sheets] Using local credentials file: {CREDENTIALS_PATH}")
+                if not CREDENTIALS_PATH.exists():
+                    raise FileNotFoundError(f"Credentials file not found: {CREDENTIALS_PATH}")
+                credentials = Credentials.from_service_account_file(
+                    str(CREDENTIALS_PATH),
+                    scopes=SCOPES
+                )
+            _client = gspread.authorize(credentials)
+            print("[Google Sheets] Successfully authenticated with Google")
+        except Exception as e:
+            print(f"[Google Sheets] Authentication error: {e}")
+            raise
     return _client
 
 
@@ -72,8 +96,15 @@ def get_spreadsheet():
     """Get or open the spreadsheet."""
     global _spreadsheet
     if _spreadsheet is None:
-        client = get_client()
-        _spreadsheet = client.open_by_key(get_spreadsheet_id())
+        try:
+            client = get_client()
+            spreadsheet_id = get_spreadsheet_id()
+            print(f"[Google Sheets] Opening spreadsheet: {spreadsheet_id}")
+            _spreadsheet = client.open_by_key(spreadsheet_id)
+            print(f"[Google Sheets] Successfully opened spreadsheet: {_spreadsheet.title}")
+        except Exception as e:
+            print(f"[Google Sheets] Error opening spreadsheet: {e}")
+            raise
     return _spreadsheet
 
 
@@ -507,3 +538,24 @@ def initialize_sheets() -> tuple[bool, str]:
         return True, "All sheets initialized successfully"
     except Exception as e:
         return False, f"Error initializing sheets: {str(e)}"
+
+
+# ==================== Startup Connection Test ====================
+
+def run_connection_test():
+    """Run a connection test and print debug info. Call this manually to debug."""
+    print("[Google Sheets] Running connection test...")
+    print(f"[Google Sheets] Credentials path: {CREDENTIALS_PATH}")
+    print(f"[Google Sheets] Credentials file exists: {CREDENTIALS_PATH.exists()}")
+    print(f"[Google Sheets] Default spreadsheet ID: {DEFAULT_SPREADSHEET_ID}")
+
+    # Check if Streamlit secrets are available
+    has_gcp_secret = _has_streamlit_secret("gcp_service_account")
+    has_spreadsheet_secret = _has_streamlit_secret("SPREADSHEET_ID")
+    print(f"[Google Sheets] Streamlit gcp_service_account secret available: {has_gcp_secret}")
+    print(f"[Google Sheets] Streamlit SPREADSHEET_ID secret available: {has_spreadsheet_secret}")
+
+    # Try to connect
+    success, message = test_connection()
+    print(f"[Google Sheets] Connection test result: {success} - {message}")
+    return success, message
