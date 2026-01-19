@@ -1,0 +1,5 @@
+name,domain,tier,type,reach_estimate
+"The New York Times","nytimes.com",1,"National Newspaper","50000000"
+"TechCrunch","techcrunch.com",2,"Tech News","15000000"
+"Industry Weekly","industryweekly.com",3,"Trade Publication","500000"
+"Tech Blog Daily","techblogdaily.com",4,"Blog","50000"

@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(pip3 install:*)",
+      "Bash(streamlit run:*)",
+      "Bash(python3:*)",
+      "Bash(open http://localhost:8501)",
+      "Bash(curl:*)",
+      "Bash(python -c:*)",
+      "Bash(lsof:*)",
+      "Bash(python -m py_compile:*)",
+      "Bash(pip3 show:*)",
+      "Bash(python -m streamlit:*)",
+      "Bash(xargs kill:*)"
+    ]
+  }
+}

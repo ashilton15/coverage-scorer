@@ -1,0 +1,2658 @@
+[
+  {
+    "name": "1130 News (CKWX)",
+    "domain": "citynews1130.com",
+    "tier": 1,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912756170"
+  },
+  {
+    "name": "570 News (CKGL)",
+    "domain": "570news.com",
+    "tier": 2,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912758375"
+  },
+  {
+    "name": "660 News (CFFR)",
+    "domain": "660citynews.com",
+    "tier": 1,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912758962"
+  },
+  {
+    "name": "680 News (CFTR)",
+    "domain": "680news.com",
+    "tier": 1,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912759367"
+  },
+  {
+    "name": "AI Coin",
+    "domain": "aicoin.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912759750"
+  },
+  {
+    "name": "Advisor",
+    "domain": "advisor.ca",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912760130"
+  },
+  {
+    "name": "Airdrie City View",
+    "domain": "airdriecityview.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912760507"
+  },
+  {
+    "name": "Airdrie City Views",
+    "domain": "airdriecityview.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912761358"
+  },
+  {
+    "name": "Airdrie Echo",
+    "domain": "airdrieecho.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912761796"
+  },
+  {
+    "name": "Albertan Today",
+    "domain": "thealbertan.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912762204"
+  },
+  {
+    "name": "Awful Announcing",
+    "domain": "awfulannouncing.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912762623"
+  },
+  {
+    "name": "BNN Bloomberg",
+    "domain": "bnnbloomberg.ca",
+    "tier": 1,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912763085"
+  },
+  {
+    "name": "Barrie Today",
+    "domain": "barrietoday.ca",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912763708"
+  },
+  {
+    "name": "Bay Today",
+    "domain": "baytoday.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912764175"
+  },
+  {
+    "name": "Beaumont News",
+    "domain": "beaumontnews.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912764651"
+  },
+  {
+    "name": "Belleville Intelligencer",
+    "domain": "intelligencer.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912765105"
+  },
+  {
+    "name": "Benefits and Pension Monitor",
+    "domain": "benefitsandpensionsmonitor.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912765665"
+  },
+  {
+    "name": "BetaKit",
+    "domain": "betakit.com",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912766586"
+  },
+  {
+    "name": "Bitcoin World",
+    "domain": "bitcoinworld.co.in",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912767264"
+  },
+  {
+    "name": "Bitcoin.com",
+    "domain": "bitcoin.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912767851"
+  },
+  {
+    "name": "Bitget",
+    "domain": "bitget.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912768555"
+  },
+  {
+    "name": "Blockchain North",
+    "domain": "blockchainnorth.ca",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912769143"
+  },
+  {
+    "name": "Blockchain Reporter",
+    "domain": "blockchainreporter.net",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912770134"
+  },
+  {
+    "name": "Blockhead",
+    "domain": "blockhead.co",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912770402"
+  },
+  {
+    "name": "Blockonomi",
+    "domain": "blockonomi.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912770634"
+  },
+  {
+    "name": "Blog TO",
+    "domain": "blogto.com",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912770902"
+  },
+  {
+    "name": "Bloomberg",
+    "domain": "bloomberg.com",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912771165"
+  },
+  {
+    "name": "Bloomberg Law",
+    "domain": "bloomberglaw.com",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912771547"
+  },
+  {
+    "name": "Bloomberg Tax",
+    "domain": "bloombergtax.com",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912771877"
+  },
+  {
+    "name": "Bowen Island Undercurrent",
+    "domain": "bowenislandundercurrent.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912772176"
+  },
+  {
+    "name": "Bowen Islander Current",
+    "domain": "bowenislandundercurrent.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912772475"
+  },
+  {
+    "name": "Bradford Today",
+    "domain": "bradfordtoday.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912772824"
+  },
+  {
+    "name": "Brampton Guardian",
+    "domain": "bramptonguardian.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912773121"
+  },
+  {
+    "name": "Brantford Expositor",
+    "domain": "brantfordexpositor.ca",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912773417"
+  },
+  {
+    "name": "Brockville Recorder",
+    "domain": "recorder.ca",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912773720"
+  },
+  {
+    "name": "Burlington Today",
+    "domain": "burlingtontoday.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912774030"
+  },
+  {
+    "name": "Burnaby Now",
+    "domain": "burnabynow.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912774338"
+  },
+  {
+    "name": "Business in Vancouver",
+    "domain": "biv.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912774988"
+  },
+  {
+    "name": "CBC",
+    "domain": "cbc.ca",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912775532"
+  },
+  {
+    "name": "CBC Calgary",
+    "domain": "cbc.ca/calgary",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912775941"
+  },
+  {
+    "name": "CBC Kamloops",
+    "domain": "cbc.ca/news/canada/kamloops",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912777032"
+  },
+  {
+    "name": "CBC Kelowna",
+    "domain": "cbc.ca/news/canada/british-columbia/kelowna",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912778854"
+  },
+  {
+    "name": "CBC Montreal",
+    "domain": "cbc.ca/montreal",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912779860"
+  },
+  {
+    "name": "CBC Quebec City",
+    "domain": "cbc.ca/news/canada/montreal/quebec-city",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912780729"
+  },
+  {
+    "name": "CBC Radio CBLA-FM",
+    "domain": "cbc.ca/radio",
+    "tier": 1,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912781361"
+  },
+  {
+    "name": "CBC Radio Calgary",
+    "domain": "cbc.ca/radio/calgary",
+    "tier": 1,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912781781"
+  },
+  {
+    "name": "CBC Radio One 89.1FM (CBLA-FM2)",
+    "domain": "cbc.ca/radio",
+    "tier": 1,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912782506"
+  },
+  {
+    "name": "CBC Radio One 99.1FM (CBLA)",
+    "domain": "cbc.ca/radio",
+    "tier": 1,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912783127"
+  },
+  {
+    "name": "CBC Radio One Fredericton (CBZF)",
+    "domain": "cbc.ca/radio",
+    "tier": 1,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912783532"
+  },
+  {
+    "name": "CBC Toronto",
+    "domain": "cbc.ca/toronto",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912784100"
+  },
+  {
+    "name": "CBC Vancouver",
+    "domain": "cbc.ca/news/canada/british-columbia",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912784476"
+  },
+  {
+    "name": "CBC Yukon",
+    "domain": "cbc.ca/news/canada/north",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912784897"
+  },
+  {
+    "name": "CBK-AM",
+    "domain": "cbc.ca/radio",
+    "tier": 2,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912785560"
+  },
+  {
+    "name": "CCN",
+    "domain": "ccn.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912786139"
+  },
+  {
+    "name": "CFTR-AM",
+    "domain": "680news.com",
+    "tier": 2,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912786504"
+  },
+  {
+    "name": "CJME-AM",
+    "domain": "cjme.com",
+    "tier": 2,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912787001"
+  },
+  {
+    "name": "CKGL-AM",
+    "domain": "570news.com",
+    "tier": 2,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912787558"
+  },
+  {
+    "name": "CKOM-AM",
+    "domain": "ckom.com",
+    "tier": 2,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912787911"
+  },
+  {
+    "name": "CKWX-AM",
+    "domain": "citynews1130.com",
+    "tier": 2,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912788307"
+  },
+  {
+    "name": "CNBC",
+    "domain": "cnbc.com",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912788729"
+  },
+  {
+    "name": "CP24",
+    "domain": "cp24.com",
+    "tier": 1,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912789123"
+  },
+  {
+    "name": "CTV News",
+    "domain": "ctvnews.ca",
+    "tier": 1,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912789517"
+  },
+  {
+    "name": "Caledon Enterprise",
+    "domain": "caledonenterprise.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912789970"
+  },
+  {
+    "name": "Calgary Herald",
+    "domain": "calgaryherald.com",
+    "tier": 1,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912790360"
+  },
+  {
+    "name": "Calgary Sun",
+    "domain": "calgarysun.com",
+    "tier": 1,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912790756"
+  },
+  {
+    "name": "Calgary.tech",
+    "domain": "calgary.tech",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912791142"
+  },
+  {
+    "name": "Cambridge Today",
+    "domain": "cambridgetoday.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912791573"
+  },
+  {
+    "name": "Campaign Canada",
+    "domain": "campaigncanada.ca",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912792016"
+  },
+  {
+    "name": "Canadian Affairs",
+    "domain": "canadianaffairs.news",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912792664"
+  },
+  {
+    "name": "Canadian SME Magazine",
+    "domain": "canadiansme.ca",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912793315"
+  },
+  {
+    "name": "Canoe",
+    "domain": "canoe.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912793924"
+  },
+  {
+    "name": "Castanet",
+    "domain": "castanet.net",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912794528"
+  },
+  {
+    "name": "Castanet Kamloops",
+    "domain": "castanet.net/kamloops",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912795131"
+  },
+  {
+    "name": "Chatham Daily News",
+    "domain": "chathamdailynews.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912795752"
+  },
+  {
+    "name": "Chatham This Week",
+    "domain": "chathamthisweek.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912796411"
+  },
+  {
+    "name": "City News",
+    "domain": "citynews.ca",
+    "tier": 1,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912797046"
+  },
+  {
+    "name": "City News 1130 (CKWX)",
+    "domain": "citynews1130.com",
+    "tier": 1,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912797553"
+  },
+  {
+    "name": "City News 570 (CKGL)",
+    "domain": "570news.com",
+    "tier": 2,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912798029"
+  },
+  {
+    "name": "City News 660 (CFFR)",
+    "domain": "660citynews.com",
+    "tier": 2,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912798653"
+  },
+  {
+    "name": "City News 680 (CFTR)",
+    "domain": "680news.com",
+    "tier": 1,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912799266"
+  },
+  {
+    "name": "City News Calgary (CFFR)",
+    "domain": "calgary.citynews.ca",
+    "tier": 1,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912799929"
+  },
+  {
+    "name": "City News Toronto (CFTR)",
+    "domain": "toronto.citynews.ca",
+    "tier": 1,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912800555"
+  },
+  {
+    "name": "City News Vancouver (CKWK)",
+    "domain": "vancouver.citynews.ca",
+    "tier": 1,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912801170"
+  },
+  {
+    "name": "CityNews 1130 (CKXW)",
+    "domain": "citynews1130.com",
+    "tier": 2,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912801773"
+  },
+  {
+    "name": "CityNews Calgary",
+    "domain": "calgary.citynews.ca",
+    "tier": 1,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912802276"
+  },
+  {
+    "name": "CityNews Halifax",
+    "domain": "halifax.citynews.ca",
+    "tier": 2,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912802805"
+  },
+  {
+    "name": "Clinton News Record",
+    "domain": "clintonnewsrecord.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912803446"
+  },
+  {
+    "name": "Coast Reporter",
+    "domain": "coastreporter.net",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912804086"
+  },
+  {
+    "name": "Cochrane Eagle",
+    "domain": "cochraneeagle.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912804779"
+  },
+  {
+    "name": "Cochrane Times",
+    "domain": "cochranetimes.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912805373"
+  },
+  {
+    "name": "Cochrane Times-Post",
+    "domain": "cochranetimespost.ca",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912805953"
+  },
+  {
+    "name": "Coindesk",
+    "domain": "coindesk.com",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912806583"
+  },
+  {
+    "name": "Coingape",
+    "domain": "coingape.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912807235"
+  },
+  {
+    "name": "Coinmarket",
+    "domain": "coinmarketcap.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912807877"
+  },
+  {
+    "name": "CoinmarketCap",
+    "domain": "coinmarketcap.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912808462"
+  },
+  {
+    "name": "Cointelegraph",
+    "domain": "cointelegraph.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912809027"
+  },
+  {
+    "name": "Cold Lake Sun",
+    "domain": "coldlakesun.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912809657"
+  },
+  {
+    "name": "Collingwood Today",
+    "domain": "collingwoodtoday.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912810251"
+  },
+  {
+    "name": "Cornwall Standard Freehold",
+    "domain": "standard-freeholder.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912810850"
+  },
+  {
+    "name": "County Market",
+    "domain": "countymarket.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912811453"
+  },
+  {
+    "name": "County Weekly News",
+    "domain": "countyweeklynews.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912812046"
+  },
+  {
+    "name": "Crowdfund Insider",
+    "domain": "crowdfundinsider.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912812666"
+  },
+  {
+    "name": "Crypto Rank",
+    "domain": "cryptorank.io",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912813252"
+  },
+  {
+    "name": "Crypto Times",
+    "domain": "cryptotimes.io",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912813829"
+  },
+  {
+    "name": "Crypto.news",
+    "domain": "crypto.news",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912814454"
+  },
+  {
+    "name": "CryptoNews",
+    "domain": "cryptonews.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912815064"
+  },
+  {
+    "name": "Cryptomonist",
+    "domain": "cryptonomist.ch",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912815686"
+  },
+  {
+    "name": "Cryptonews podcast",
+    "domain": "cryptonews.com/podcast",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912816284"
+  },
+  {
+    "name": "Cryptonews.net",
+    "domain": "cryptonews.net",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912816900"
+  },
+  {
+    "name": "Cryptopolitan",
+    "domain": "cryptopolitan.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912817499"
+  },
+  {
+    "name": "Daily Herald Tribune",
+    "domain": "dailyheraldtribune.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912818092"
+  },
+  {
+    "name": "Daily Hunt",
+    "domain": "dailyhunt.in",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912818679"
+  },
+  {
+    "name": "Decoder",
+    "domain": "decoder.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912819273"
+  },
+  {
+    "name": "Delta Optimist",
+    "domain": "delta-optimist.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912819867"
+  },
+  {
+    "name": "Devon Dispatch",
+    "domain": "devondispatch.ca",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912820475"
+  },
+  {
+    "name": "Drayton Valley Western Review",
+    "domain": "draytonvalleywesternreview.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912821106"
+  },
+  {
+    "name": "Durham Region",
+    "domain": "durhamregion.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912821715"
+  },
+  {
+    "name": "ETF Trends",
+    "domain": "etftrends.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912822316"
+  },
+  {
+    "name": "Edmonton Examiner",
+    "domain": "edmontonexaminer.com",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912822941"
+  },
+  {
+    "name": "Edmonton Journal",
+    "domain": "edmontonjournal.com",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912823555"
+  },
+  {
+    "name": "Edmonton Sun",
+    "domain": "edmontonsun.com",
+    "tier": 1,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912824185"
+  },
+  {
+    "name": "Elliot Lake Standard",
+    "domain": "elliotlakestandard.ca",
+    "tier": 1,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912824806"
+  },
+  {
+    "name": "Elliot Lake Today",
+    "domain": "elliotlaketoday.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912825420"
+  },
+  {
+    "name": "Elora Fergus",
+    "domain": "elorafergustoday.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912826027"
+  },
+  {
+    "name": "Elora Fergus Today",
+    "domain": "elorafergustoday.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912826629"
+  },
+  {
+    "name": "FOX Business",
+    "domain": "foxbusiness.com",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912827236"
+  },
+  {
+    "name": "FX News Group",
+    "domain": "financemagnates.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912827837"
+  },
+  {
+    "name": "Fairview Post",
+    "domain": "fairviewpost.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912828484"
+  },
+  {
+    "name": "Fastbull",
+    "domain": "fastbull.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912829109"
+  },
+  {
+    "name": "Finance Feeds",
+    "domain": "financefeeds.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912829736"
+  },
+  {
+    "name": "Finance Magnates",
+    "domain": "financemagnates.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912830340"
+  },
+  {
+    "name": "Financial Post",
+    "domain": "financialpost.com",
+    "tier": 1,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912830940"
+  },
+  {
+    "name": "Fintech.ca",
+    "domain": "fintech.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912831574"
+  },
+  {
+    "name": "Flamborough Today",
+    "domain": "flamboroughtoday.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912832193"
+  },
+  {
+    "name": "Flin Flon Reminder",
+    "domain": "flinflonreminder.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912832823"
+  },
+  {
+    "name": "Flin Flonn Reminder",
+    "domain": "flinflonreminder.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912833571"
+  },
+  {
+    "name": "Follwin",
+    "domain": "followin.io",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912834219"
+  },
+  {
+    "name": "Fort McMurray News",
+    "domain": "fortmcmurraytoday.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912834825"
+  },
+  {
+    "name": "Fort Saskatchewan Record",
+    "domain": "fortsaskatchewanrecord.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912835427"
+  },
+  {
+    "name": "Gananoque Reporter",
+    "domain": "gananoquereporter.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912836032"
+  },
+  {
+    "name": "Global News",
+    "domain": "globalnews.ca",
+    "tier": 1,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912836646"
+  },
+  {
+    "name": "Globe Advisor",
+    "domain": "theglobeandmail.com/globe-advisor",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912837234"
+  },
+  {
+    "name": "Goderich Signal Star",
+    "domain": "goderichsignalstar.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912837830"
+  },
+  {
+    "name": "Grafa",
+    "domain": "grafa.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912838546"
+  },
+  {
+    "name": "Grey Bruce This Week",
+    "domain": "greybrucethisweek.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912839189"
+  },
+  {
+    "name": "Ground News",
+    "domain": "ground.news",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912839831"
+  },
+  {
+    "name": "Guelph Today",
+    "domain": "guelphtoday.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912840478"
+  },
+  {
+    "name": "Halton Hills News",
+    "domain": "haltonhillstoday.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912841119"
+  },
+  {
+    "name": "Hamilton Spectator",
+    "domain": "thespec.com",
+    "tier": 1,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912841751"
+  },
+  {
+    "name": "Hamilton and Flamboro Review",
+    "domain": "flamboroughreview.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912842415"
+  },
+  {
+    "name": "Hanna Herald",
+    "domain": "hannaherald.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912843051"
+  },
+  {
+    "name": "High River Times",
+    "domain": "highrivertimes.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912843689"
+  },
+  {
+    "name": "IT Brief",
+    "domain": "itbrief.ca",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912844326"
+  },
+  {
+    "name": "Innisfill News",
+    "domain": "innisfiltoday.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912844984"
+  },
+  {
+    "name": "Inside Halton",
+    "domain": "insidehalton.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912845656"
+  },
+  {
+    "name": "Inside Ottawa Valley",
+    "domain": "insideottawavalley.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912846293"
+  },
+  {
+    "name": "Investing News Network",
+    "domain": "investingnews.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912846945"
+  },
+  {
+    "name": "Investment Executive",
+    "domain": "investmentexecutive.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912847620"
+  },
+  {
+    "name": "Kenora Miner and News",
+    "domain": "kenoradailyminerandnews.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912848300"
+  },
+  {
+    "name": "Kincardine News",
+    "domain": "kincardinenews.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912848958"
+  },
+  {
+    "name": "Kingston This Week",
+    "domain": "kingstonthisweek.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912849632"
+  },
+  {
+    "name": "Lakeland Today",
+    "domain": "lakelandtoday.ca",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912850294"
+  },
+  {
+    "name": "Lakerland Today",
+    "domain": "lakelandtoday.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912850993"
+  },
+  {
+    "name": "Lakeshore Advance",
+    "domain": "lakeshoreadvance.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912851669"
+  },
+  {
+    "name": "Lakeshore Advocate",
+    "domain": "lakeshoreadvocate.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912852343"
+  },
+  {
+    "name": "Les Affaires",
+    "domain": "lesaffaires.com",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912853026"
+  },
+  {
+    "name": "Little Black Book",
+    "domain": "lbbonline.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912853697"
+  },
+  {
+    "name": "London Free Press",
+    "domain": "lfpress.com",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912854386"
+  },
+  {
+    "name": "Lucknow Sentinel",
+    "domain": "lucknowsentinel.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912855180"
+  },
+  {
+    "name": "MENAFN",
+    "domain": "menafn.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912855904"
+  },
+  {
+    "name": "MSN Canada",
+    "domain": "msn.com/en-ca",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912856619"
+  },
+  {
+    "name": "Macleans",
+    "domain": "macleans.ca",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912857355"
+  },
+  {
+    "name": "Market Screener",
+    "domain": "marketscreener.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912858055"
+  },
+  {
+    "name": "Mayerthorpe Freelancer",
+    "domain": "mayerthorpefreelancer.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912858758"
+  },
+  {
+    "name": "Media in Canada",
+    "domain": "mediaincanada.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912859459"
+  },
+  {
+    "name": "Melfort Journal",
+    "domain": "melfortjournal.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912860168"
+  },
+  {
+    "name": "Metaverse Post",
+    "domain": "mpost.io",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912860908"
+  },
+  {
+    "name": "Mid North Monitor",
+    "domain": "midnorthmonitor.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912861635"
+  },
+  {
+    "name": "Midland Today",
+    "domain": "midlandtoday.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912862391"
+  },
+  {
+    "name": "Mitchell Advocate",
+    "domain": "mitchelladvocate.com",
+    "tier": 1,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912863105"
+  },
+  {
+    "name": "Mobile Syrup",
+    "domain": "mobilesyrup.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912863824"
+  },
+  {
+    "name": "Mobile World",
+    "domain": "mobileworldlive.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912864556"
+  },
+  {
+    "name": "MoneySense",
+    "domain": "moneysense.ca",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912865312"
+  },
+  {
+    "name": "Montreal Gazette",
+    "domain": "montrealgazette.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912866042"
+  },
+  {
+    "name": "Moose Jaw Today",
+    "domain": "moosejawtoday.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912866805"
+  },
+  {
+    "name": "Morningstar",
+    "domain": "morningstar.ca",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912867546"
+  },
+  {
+    "name": "Muskoka Region",
+    "domain": "muskokaregion.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912868297"
+  },
+  {
+    "name": "Napanee Guide",
+    "domain": "napaneeguide.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912869048"
+  },
+  {
+    "name": "Nasdaq TradeTalks",
+    "domain": "nasdaq.com/tradetalks",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912869808"
+  },
+  {
+    "name": "National Post",
+    "domain": "nationalpost.com",
+    "tier": 1,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912870556"
+  },
+  {
+    "name": "New Hamburg Independent",
+    "domain": "newhamburgindependent.ca",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912871368"
+  },
+  {
+    "name": "New West Record",
+    "domain": "newwestrecord.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912872150"
+  },
+  {
+    "name": "Newmarket Today",
+    "domain": "newmarkettoday.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912873115"
+  },
+  {
+    "name": "Niagara Falls Review",
+    "domain": "niagarafallsreview.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912873896"
+  },
+  {
+    "name": "Niagara This Week",
+    "domain": "niagarathisweek.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912874684"
+  },
+  {
+    "name": "Niagara on the Lake Local",
+    "domain": "niagaranow.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912875462"
+  },
+  {
+    "name": "Niagara-on-the-Lake Local",
+    "domain": "niagaranow.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912876249"
+  },
+  {
+    "name": "Nipawin Journal",
+    "domain": "nipawinjournal.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912877047"
+  },
+  {
+    "name": "Norfolk and Tillsonburg News",
+    "domain": "norfolkandtillsonburgnews.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912877889"
+  },
+  {
+    "name": "North Bay Nipissing News",
+    "domain": "nugget.ca",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912878701"
+  },
+  {
+    "name": "North Shore News",
+    "domain": "nsnews.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912879497"
+  },
+  {
+    "name": "Northern News",
+    "domain": "northernnews.ca",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912880289"
+  },
+  {
+    "name": "Northumberland News",
+    "domain": "northumberlandnews.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912881093"
+  },
+  {
+    "name": "Nova Scotia News",
+    "domain": "nsnews.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912881925"
+  },
+  {
+    "name": "O Canada",
+    "domain": "o.canada.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912882757"
+  },
+  {
+    "name": "Oakville News",
+    "domain": "oakvillenews.org",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912883568"
+  },
+  {
+    "name": "Orilla Matters",
+    "domain": "orillamatters.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912884410"
+  },
+  {
+    "name": "Ottawa Citizen",
+    "domain": "ottawacitizen.com",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912885224"
+  },
+  {
+    "name": "Ottawa Sun",
+    "domain": "ottawasun.com",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912886044"
+  },
+  {
+    "name": "Our Windsor",
+    "domain": "ourwindsor.ca",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912886904"
+  },
+  {
+    "name": "Owen Sound Sun Times",
+    "domain": "owensoundsuntimes.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912887736"
+  },
+  {
+    "name": "Paris Star",
+    "domain": "parisstaronline.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912888625"
+  },
+  {
+    "name": "Parry Sound",
+    "domain": "parrysound.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912889495"
+  },
+  {
+    "name": "Peace Country Sun",
+    "domain": "peacecountrysun.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912890331"
+  },
+  {
+    "name": "Peace River Record Gazette",
+    "domain": "prrecordgazette.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912891166"
+  },
+  {
+    "name": "Pelham Today",
+    "domain": "pelhamtoday.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912892009"
+  },
+  {
+    "name": "Pembroke Observer",
+    "domain": "pembrokeobserver.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912892860"
+  },
+  {
+    "name": "Peterborough Examiner",
+    "domain": "thepeterboroughexaminer.com",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912893724"
+  },
+  {
+    "name": "Pincher Creek Echo",
+    "domain": "pinchercreekecho.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912894584"
+  },
+  {
+    "name": "Pique News Magazine",
+    "domain": "piquenewsmagazine.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912895443"
+  },
+  {
+    "name": "Pique Newsmagazine",
+    "domain": "piquenewsmagazine.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912896300"
+  },
+  {
+    "name": "Powell River Creek",
+    "domain": "prpeak.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912897155"
+  },
+  {
+    "name": "Prince George Citizen",
+    "domain": "princegeorgecitizen.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912898040"
+  },
+  {
+    "name": "Provincial Peak",
+    "domain": "prpeak.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912898937"
+  },
+  {
+    "name": "Regina Leader Post",
+    "domain": "leaderpost.com",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912899808"
+  },
+  {
+    "name": "Richmond News",
+    "domain": "richmond-news.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912900703"
+  },
+  {
+    "name": "Rob Carrick",
+    "domain": "theglobeandmail.com/authors/rob-carrick",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912901582"
+  },
+  {
+    "name": "Rocky Mountain Outlook",
+    "domain": "rmoutlook.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912902465"
+  },
+  {
+    "name": "Sarnia Observer",
+    "domain": "theobserver.ca",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912903355"
+  },
+  {
+    "name": "Sarnia This Week",
+    "domain": "sarniathisweek.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912904263"
+  },
+  {
+    "name": "Sask Today",
+    "domain": "sasktoday.ca",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912905210"
+  },
+  {
+    "name": "Sault Star",
+    "domain": "saultstar.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912906143"
+  },
+  {
+    "name": "Sault This Week",
+    "domain": "saultthisweek.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912907048"
+  },
+  {
+    "name": "Seaforth Huron Expositor",
+    "domain": "seaforthhuronexpositor.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912907948"
+  },
+  {
+    "name": "Sherwood Park News",
+    "domain": "sherwoodparknews.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912908873"
+  },
+  {
+    "name": "Shoreline Beacon",
+    "domain": "shorelinebeacon.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912909820"
+  },
+  {
+    "name": "Simcoe Reformer",
+    "domain": "simcoereformer.ca",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912910736"
+  },
+  {
+    "name": "Soo Today",
+    "domain": "sootoday.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912911661"
+  },
+  {
+    "name": "Sports Business Journal",
+    "domain": "sportsbusinessjournal.com",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912912591"
+  },
+  {
+    "name": "Spruce Grove Examiner",
+    "domain": "sprucegroveexaminer.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912913524"
+  },
+  {
+    "name": "Squamish Chief",
+    "domain": "squamishchief.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912914462"
+  },
+  {
+    "name": "St Albert Gazette",
+    "domain": "stalbertgazette.com",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912915443"
+  },
+  {
+    "name": "St Catherine's Standard",
+    "domain": "stcatharinesstandard.ca",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912916411"
+  },
+  {
+    "name": "St Catherines Standard",
+    "domain": "stcatharinesstandard.ca",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912917384"
+  },
+  {
+    "name": "St. Thomas Times Journal",
+    "domain": "stthomastimesjournal.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912918336"
+  },
+  {
+    "name": "Startup Ecosystem Canada",
+    "domain": "startupheretoronto.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912919301"
+  },
+  {
+    "name": "Stony Plain Reporter",
+    "domain": "stonyplainreporter.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912920280"
+  },
+  {
+    "name": "Stratford Beacon Herald",
+    "domain": "stratfordbeaconherald.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912921283"
+  },
+  {
+    "name": "Stratford Today",
+    "domain": "stratfordtoday.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912922328"
+  },
+  {
+    "name": "Strathroy Age Dispatch",
+    "domain": "strathroyagedispatch.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912923308"
+  },
+  {
+    "name": "Sudbury.com",
+    "domain": "sudbury.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912924318"
+  },
+  {
+    "name": "Tech Talent Canada",
+    "domain": "techtalentcanada.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912925318"
+  },
+  {
+    "name": "TechBeat",
+    "domain": "techbeat.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912926310"
+  },
+  {
+    "name": "TechTO",
+    "domain": "techto.org",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912927298"
+  },
+  {
+    "name": "Techcouver",
+    "domain": "techcouver.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912928296"
+  },
+  {
+    "name": "Tekedia",
+    "domain": "tekedia.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912929316"
+  },
+  {
+    "name": "The Albertan",
+    "domain": "albertan.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912930303"
+  },
+  {
+    "name": "The Albertan News",
+    "domain": "thealbertan.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912931354"
+  },
+  {
+    "name": "The Blaze",
+    "domain": "theblaze.com",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912932384"
+  },
+  {
+    "name": "The Block",
+    "domain": "theblock.co",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912933414"
+  },
+  {
+    "name": "The Business Leadership Podcast",
+    "domain": "businessleadershippodcast.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912934450"
+  },
+  {
+    "name": "The Canadian Press",
+    "domain": "thecanadianpress.com",
+    "tier": 1,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912935501"
+  },
+  {
+    "name": "The Community Press",
+    "domain": "communitypress.ca",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912936568"
+  },
+  {
+    "name": "The Crag and Canyon",
+    "domain": "thecragandcanyon.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912937640"
+  },
+  {
+    "name": "The Fitzhugh",
+    "domain": "thefitzhugh.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912938698"
+  },
+  {
+    "name": "The Globe and Mail",
+    "domain": "theglobeandmail.com",
+    "tier": 1,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912939765"
+  },
+  {
+    "name": "The Graphic Leader",
+    "domain": "thegraphicleader.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912940842"
+  },
+  {
+    "name": "The Hamilton Spectator",
+    "domain": "thespec.com",
+    "tier": 1,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912941905"
+  },
+  {
+    "name": "The Hard Part Podcast",
+    "domain": "thehardpartpodcast.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912943002"
+  },
+  {
+    "name": "The Hill Times",
+    "domain": "hilltimes.com",
+    "tier": 1,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912944072"
+  },
+  {
+    "name": "The Independent Free Press",
+    "domain": "theifp.ca",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912945141"
+  },
+  {
+    "name": "The Kincardine News",
+    "domain": "kincardinenews.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912946231"
+  },
+  {
+    "name": "The Leduc Rep",
+    "domain": "leducrep.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912947325"
+  },
+  {
+    "name": "The Logic",
+    "domain": "thelogic.co",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912948428"
+  },
+  {
+    "name": "The Londoner",
+    "domain": "thelondoner.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912949544"
+  },
+  {
+    "name": "The Mayerthorpe Freelancer",
+    "domain": "mayerthorpefreelancer.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912950653"
+  },
+  {
+    "name": "The Nanton News",
+    "domain": "nantonnews.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912951755"
+  },
+  {
+    "name": "The Northbay Nugget",
+    "domain": "nugget.ca",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912952884"
+  },
+  {
+    "name": "The Paris Star",
+    "domain": "parisstaronline.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912953989"
+  },
+  {
+    "name": "The Peak",
+    "domain": "thepeak.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912955104"
+  },
+  {
+    "name": "The Post",
+    "domain": "thepost.on.ca",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912956224"
+  },
+  {
+    "name": "The Powell River Peak",
+    "domain": "prpeak.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912957368"
+  },
+  {
+    "name": "The Province",
+    "domain": "theprovince.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912958498"
+  },
+  {
+    "name": "The Squamish Chief",
+    "domain": "squamishchief.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912959620"
+  },
+  {
+    "name": "The Star Phoenix",
+    "domain": "thestarphoenix.com",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912960778"
+  },
+  {
+    "name": "The Sudbury Star",
+    "domain": "thesudburystar.com",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912961928"
+  },
+  {
+    "name": "The Tech Report",
+    "domain": "techreport.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912963091"
+  },
+  {
+    "name": "The Whig",
+    "domain": "thewhig.com",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912964237"
+  },
+  {
+    "name": "The Winnipeg Free Press",
+    "domain": "winnipegfreepress.com",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912965417"
+  },
+  {
+    "name": "TheNewsCrypto",
+    "domain": "thenewscrypto.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912966613"
+  },
+  {
+    "name": "Thorold Today",
+    "domain": "thoroldtoday.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912967788"
+  },
+  {
+    "name": "Tillsonburg News",
+    "domain": "tillsonburgnews.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912968948"
+  },
+  {
+    "name": "Times Colonist",
+    "domain": "timescolonist.com",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912970111"
+  },
+  {
+    "name": "Timmins Times",
+    "domain": "timminstimes.com",
+    "tier": 1,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912971310"
+  },
+  {
+    "name": "Timmins Today",
+    "domain": "timminstoday.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912972490"
+  },
+  {
+    "name": "Today's Farmer",
+    "domain": "todaysfarmer.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912973669"
+  },
+  {
+    "name": "Tokenpost",
+    "domain": "tokenpost.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912974865"
+  },
+  {
+    "name": "Toronto Star",
+    "domain": "thestar.com",
+    "tier": 1,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912976058"
+  },
+  {
+    "name": "Toronto Sun",
+    "domain": "torontosun.com",
+    "tier": 1,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912977241"
+  },
+  {
+    "name": "Toronto Today",
+    "domain": "toronto.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912978450"
+  },
+  {
+    "name": "Town and Country Today",
+    "domain": "townandcountrytoday.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912979675"
+  },
+  {
+    "name": "Trading View",
+    "domain": "tradingview.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912980863"
+  },
+  {
+    "name": "Trenton Trentonian",
+    "domain": "trentonian.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912982076"
+  },
+  {
+    "name": "TriCity News",
+    "domain": "tricitynews.com",
+    "tier": 2,
+    "type": "Broadcast",
+    "reach_estimate": 0,
+    "id": "20260114151912983320"
+  },
+  {
+    "name": "Tronweekly",
+    "domain": "tronweekly.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912984536"
+  },
+  {
+    "name": "Unchained Crypto",
+    "domain": "unchainedcrypto.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912985769"
+  },
+  {
+    "name": "Vancouver Sun",
+    "domain": "vancouversun.com",
+    "tier": 1,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912986976"
+  },
+  {
+    "name": "Vancouver is Awesome",
+    "domain": "vancouverisawesome.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912988194"
+  },
+  {
+    "name": "Vermilion Standard",
+    "domain": "vermilionstandard.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912989496"
+  },
+  {
+    "name": "Vulcan Advocate",
+    "domain": "vulcanadvocate.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912990740"
+  },
+  {
+    "name": "Wallaceburg Courier Press",
+    "domain": "wallaceburgcourierpress.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912991992"
+  },
+  {
+    "name": "Waterloo Chronicle",
+    "domain": "waterloochronicle.ca",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912993246"
+  },
+  {
+    "name": "Waterloo Region Record",
+    "domain": "therecord.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912994499"
+  },
+  {
+    "name": "Wealth Professional",
+    "domain": "wealthprofessional.ca",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912995784"
+  },
+  {
+    "name": "Welland Tribune",
+    "domain": "wellandtribune.com",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912997024"
+  },
+  {
+    "name": "Western Investor",
+    "domain": "westerninvestor.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151912998310"
+  },
+  {
+    "name": "Western Standard",
+    "domain": "westernstandard.news",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151912999577"
+  },
+  {
+    "name": "Western Wheel",
+    "domain": "westernwheel.ca",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151913000858"
+  },
+  {
+    "name": "Wetaskiwin Times",
+    "domain": "wetaskiwintimes.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151913002139"
+  },
+  {
+    "name": "Whitecourt Star",
+    "domain": "whitecourtstar.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151913003453"
+  },
+  {
+    "name": "Wiarton Echo",
+    "domain": "wiartonecho.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151913004753"
+  },
+  {
+    "name": "Wifi Hifi",
+    "domain": "wifihifi.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151913005979"
+  },
+  {
+    "name": "Windsor Star",
+    "domain": "windsorstar.com",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151913007214"
+  },
+  {
+    "name": "Winnipeg Free Press",
+    "domain": "winnipegfreepress.com",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151913008435"
+  },
+  {
+    "name": "Winnipeg Sun",
+    "domain": "winnipegsun.com",
+    "tier": 2,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151913009667"
+  },
+  {
+    "name": "Woodstock Sentinel Review",
+    "domain": "woodstocksentinelreview.com",
+    "tier": 3,
+    "type": "Print",
+    "reach_estimate": 0,
+    "id": "20260114151913010894"
+  },
+  {
+    "name": "Yahoo Finance",
+    "domain": "ca.finance.yahoo.com",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151913012125"
+  },
+  {
+    "name": "Yahoo News Canada",
+    "domain": "ca.news.yahoo.com",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151913013353"
+  },
+  {
+    "name": "Yahoo! Canada",
+    "domain": "ca.yahoo.com",
+    "tier": 1,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151913014588"
+  },
+  {
+    "name": "York Region",
+    "domain": "yorkregion.com",
+    "tier": 2,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151913015829"
+  },
+  {
+    "name": "iPhone in Canada",
+    "domain": "iphoneincanada.ca",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151913017073"
+  },
+  {
+    "name": "ihodl",
+    "domain": "ihodl.com",
+    "tier": 3,
+    "type": "Online",
+    "reach_estimate": 0,
+    "id": "20260114151913018314"
+  }
+]

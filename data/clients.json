@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Coinbase",
+    "industry": "Cryptocurrency / Fintech",
+    "key_messages": [
+      {
+        "message": "This would be the first time Canada is proposing a comprehensive legislative framework for stablecoins",
+        "priority": "high"
+      },
+      {
+        "message": "Canada has an opportunity to lead again on financial innovation, creating a system that is safer, fairer, and more affordable for Canadians",
+        "priority": "high"
+      },
+      {
+        "message": "Without clear rules, Canada risks falling behind other G7 nations and becoming dependent on U.S.-issued stablecoins",
+        "priority": "high"
+      },
+      {
+        "message": "Stablecoin legislation has the potential to be a bipartisan issue and a national priority",
+        "priority": "high"
+      },
+      {
+        "message": "A Canadian stablecoin framework could contribute over C$5 billion to GDP by 2030",
+        "priority": "medium"
+      },
+      {
+        "message": "Stablecoins could reduce remittance costs\u2014Canadians currently pay 6-12% to send money abroad",
+        "priority": "medium"
+      },
+      {
+        "message": "A well-regulated stablecoin system could help make life more affordable for Canadians and support small businesses",
+        "priority": "medium"
+      },
+      {
+        "message": "The EU, U.S., Japan, and the U.K. have already implemented or drafted stablecoin regulations\u2014Canada is catching up",
+        "priority": "medium"
+      },
+      {
+        "message": "Canadians are overpaying $8.5 billion per year on transaction fees compared to U.K. bank fees",
+        "priority": "low"
+      },
+      {
+        "message": "86% of Canadians agree the financial system needs an update",
+        "priority": "low"
+      },
+      {
+        "message": "The global stablecoin market is expected to grow from USD 240 billion to USD 1.6 trillion by 2030",
+        "priority": "low"
+      },
+      {
+        "message": "72% of Canadians think regulation of cryptocurrency exchanges is important",
+        "priority": "low"
+      }
+    ],
+    "competitors": [
+      "Kraken",
+      "Binance",
+      "WonderFi"
+    ],
+    "id": "20260114154333129067",
+    "created_at": "2026-01-14T15:43:33.129103"
+  }
+]

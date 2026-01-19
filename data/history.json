@@ -1,0 +1,4082 @@
+[
+  {
+    "headline": "Crypto advocates want blockchain tech added to Canadian AI minister\u2019s portfolio",
+    "outlet": "betakit.com",
+    "author": "Madison McLauchlan",
+    "client": "Coinbase",
+    "url": "https://betakit.com/crypto-advocates-want-blockchain-tech-added-to-canadian-ai-ministers-portfolio/",
+    "total_score": 86.0,
+    "tier_scores": {
+      "tier_1_foundational": {
+        "name": "Tier 1 - Foundational",
+        "score": 32,
+        "max": 36
+      },
+      "tier_2_messaging": {
+        "name": "Tier 2 - Messaging & Voice",
+        "score": 20.5,
+        "max": 30
+      },
+      "tier_3_prominence": {
+        "name": "Tier 3 - Prominence & Position",
+        "score": 8,
+        "max": 10
+      },
+      "tier_4_credibility": {
+        "name": "Tier 4 - Credibility & Spokesperson",
+        "score": 8.0,
+        "max": 10
+      },
+      "tier_5_competitive": {
+        "name": "Tier 5 - Competitive Dynamics",
+        "score": 6.5,
+        "max": 9
+      },
+      "tier_6_audience_fit": {
+        "name": "Tier 6 - Outlet & Audience Fit",
+        "score": 6.5,
+        "max": 6.5
+      },
+      "tier_7_supporting": {
+        "name": "Tier 7 - Supporting Details",
+        "score": 1.5,
+        "max": 2.5
+      },
+      "bonus": {
+        "name": "Bonus Points",
+        "score": 3,
+        "max": 16
+      }
+    },
+    "detailed_scores": {
+      "tier_1_foundational": {
+        "outlet_tier": {
+          "score": 20,
+          "reasoning": "BetaKit is identified as Tier 1 outlet, earning maximum 20 points"
+        },
+        "overall_sentiment": {
+          "score": 5,
+          "reasoning": "Neutral to positive sentiment - presents Coinbase's advocacy efforts factually without criticism, includes substantive discussion of their policy positions"
+        },
+        "article_exclusively_about_client": {
+          "score": 2,
+          "reasoning": "Article focuses significantly on Coinbase and their advocacy but also includes substantial content about other advocates like John Ruffolo and broader stablecoin policy context"
+        },
+        "article_type": {
+          "score": 2,
+          "reasoning": "This is a comprehensive feature article with in-depth analysis, multiple sources, and detailed policy discussion - clearly more than a brief news item"
+        },
+        "tone_toward_client": {
+          "score": 3,
+          "reasoning": "Tone is respectful and professional throughout, presenting Coinbase as a legitimate policy advocate with substantive positions on blockchain regulation"
+        }
+      },
+      "tier_2_messaging": {
+        "key_messages_high": {
+          "score": 6,
+          "reasoning": "Found 2 high-priority messages: Canada's opportunity to lead on financial innovation and avoiding dependence on U.S.-issued stablecoins are clearly articulated",
+          "messages_found": [
+            "Canada has an opportunity to lead again on financial innovation",
+            "Without clear rules, Canada risks falling behind other G7 nations and becoming dependent on U.S.-issued stablecoins"
+          ]
+        },
+        "key_messages_medium": {
+          "score": 1.5,
+          "reasoning": "Found 1 medium-priority message about other nations already implementing stablecoin regulations with Canada catching up",
+          "messages_found": [
+            "The EU, U.S., Japan, and the U.K. have already implemented or drafted stablecoin regulations\u2014Canada is catching up"
+          ]
+        },
+        "key_messages_low": {
+          "score": 0,
+          "reasoning": "None of the low-priority messages about transaction fees, Canadian opinions on financial system updates, or market growth projections are mentioned",
+          "messages_found": []
+        },
+        "direct_quote_included": {
+          "score": 6,
+          "reasoning": "Multiple substantial direct quotes from Lucas Matheson presenting Coinbase's policy positions and advocacy goals"
+        },
+        "number_of_quotes": {
+          "score": 3,
+          "reasoning": "Contains 3+ direct quotes from Coinbase spokesperson Lucas Matheson",
+          "quote_count": 4
+        },
+        "preferred_framing_used": {
+          "score": 4,
+          "reasoning": "Strong use of preferred framing around digital sovereignty, Canada's leadership opportunity, and positioning blockchain as critical infrastructure"
+        },
+        "data_stat_cited": {
+          "score": 0,
+          "reasoning": "No specific statistics from Coinbase's key messages are cited, though other data points about stablecoin market are mentioned"
+        }
+      },
+      "tier_3_prominence": {
+        "paragraph_first_mention": {
+          "score": 3,
+          "reasoning": "Coinbase is mentioned in the very first paragraph of the article",
+          "paragraph_number": 1
+        },
+        "brand_in_opening": {
+          "score": 3,
+          "reasoning": "Coinbase appears prominently in the opening paragraph, establishing them as the central focus"
+        },
+        "percentage_focused_on_client": {
+          "score": 1,
+          "reasoning": "Approximately 40% of article focuses on Coinbase - significant portion but balanced with broader policy context",
+          "percentage": 40
+        },
+        "brand_in_closing": {
+          "score": 0,
+          "reasoning": "The closing paragraphs focus on government response rather than Coinbase specifically"
+        },
+        "total_brand_mentions": {
+          "score": 1,
+          "reasoning": "Coinbase mentioned 6+ times throughout the article",
+          "mention_count": 7
+        }
+      },
+      "tier_4_credibility": {
+        "spokesperson_named": {
+          "score": 2.5,
+          "reasoning": "Lucas Matheson is clearly identified as Coinbase Canada CEO and serves as primary spokesperson",
+          "spokesperson": "Lucas Matheson"
+        },
+        "framed_as_expert": {
+          "score": 2,
+          "reasoning": "Matheson is positioned as knowledgeable policy advocate with clear expertise on blockchain technology and regulatory matters"
+        },
+        "framed_as_innovator": {
+          "score": 1,
+          "reasoning": "Some framing around innovation and digital economy leadership, though not the primary focus"
+        },
+        "spokesperson_title": {
+          "score": 1.5,
+          "reasoning": "Full executive title provided: CEO of Coinbase Canada",
+          "title": "CEO of Coinbase Canada"
+        },
+        "positive_trend_association": {
+          "score": 1,
+          "reasoning": "Strong association with positive trends like digital sovereignty, financial innovation, and Canada's competitive positioning"
+        },
+        "problem_association": {
+          "score": 0,
+          "reasoning": "No negative associations or problems attributed to Coinbase in the coverage"
+        }
+      },
+      "tier_5_competitive": {
+        "positioned_as_leader": {
+          "score": 2,
+          "reasoning": "Coinbase described as 'leading crypto exchange' with substantial assets under management and significant market presence"
+        },
+        "mentioned_before_competitors": {
+          "score": 1.5,
+          "reasoning": "No competitors from the specified list (Kraken, Binance, WonderFi) are mentioned in the article"
+        },
+        "share_of_voice": {
+          "score": 1.5,
+          "reasoning": "Coinbase dominates the coverage as the primary corporate voice on the policy issues",
+          "client_share": 90
+        },
+        "competitors_mentioned": {
+          "score": 0,
+          "reasoning": "None of the specified competitors are mentioned in the article"
+        },
+        "more_quotes_than_competitors": {
+          "score": 1.5,
+          "reasoning": "Coinbase has multiple quotes while no competitors receive coverage"
+        },
+        "number_competitors_mentioned": {
+          "score": 0,
+          "reasoning": "Zero competitors from the specified list are mentioned",
+          "competitor_count": 0,
+          "competitors_found": []
+        },
+        "competitor_in_headline": {
+          "score": 0,
+          "reasoning": "No competitors mentioned in the headline"
+        }
+      },
+      "tier_6_audience_fit": {
+        "outlet_industry_relevance": {
+          "score": 3.5,
+          "reasoning": "BetaKit covers fintech and technology innovation extensively, making it highly relevant for cryptocurrency/blockchain coverage"
+        },
+        "outlet_audience_relevance": {
+          "score": 3,
+          "reasoning": "BetaKit's audience of tech industry professionals and investors are highly relevant for Coinbase's regulatory advocacy messaging"
+        }
+      },
+      "tier_7_supporting": {
+        "cta_or_product_mention": {
+          "score": 0,
+          "reasoning": "No specific call-to-action or product promotion included in the coverage"
+        },
+        "article_length": {
+          "score": 0.5,
+          "reasoning": "Comprehensive article with substantial depth and analysis",
+          "word_count": 800
+        },
+        "brand_only_in_headline": {
+          "score": 0.5,
+          "reasoning": "Coinbase appears in headline along with substantial body content"
+        },
+        "exclusive_story": {
+          "score": 0.5,
+          "reasoning": "Appears to include exclusive interview content with BetaKit"
+        },
+        "journalist_covered_before": {
+          "score": 0,
+          "reasoning": "Cannot determine from available information if this journalist has covered Coinbase previously"
+        }
+      },
+      "bonus": {
+        "op_ed_by_client": {
+          "score": 0,
+          "reasoning": "This is a news article by BetaKit journalist Madison McLauchlan, not an op-ed authored by Coinbase spokesperson"
+        },
+        "brand_in_headline": {
+          "score": 3,
+          "reasoning": "Coinbase appears prominently in the headline"
+        },
+        "syndicated": {
+          "score": 0,
+          "reasoning": "No evidence of syndication to other outlets"
+        },
+        "ranks_for_keywords": {
+          "score": 0,
+          "reasoning": "Cannot determine search ranking from available information"
+        },
+        "appears_in_google_news": {
+          "score": 0,
+          "reasoning": "Cannot determine Google News inclusion from available information"
+        },
+        "open_access": {
+          "score": 0,
+          "reasoning": "Cannot determine paywall status from available information"
+        }
+      },
+      "summary": {
+        "overall_assessment": "This is strong coverage that positions Coinbase as a thought leader in Canadian blockchain policy advocacy. The article effectively communicates their key regulatory positions while maintaining journalistic credibility through balanced reporting.",
+        "strengths": [
+          "Tier 1 outlet placement",
+          "Multiple substantive quotes from CEO",
+          "Strong framing around policy leadership",
+          "No competitor mentions",
+          "Prominent headline placement",
+          "Expert positioning on regulatory matters"
+        ],
+        "weaknesses": [
+          "Limited inclusion of specific Coinbase key messages",
+          "No supporting statistics cited",
+          "Missing some high-priority messaging around comprehensive legislative framework",
+          "No call-to-action or product mentions"
+        ],
+        "recommendations": [
+          "Work to include more specific key messages in future interviews",
+          "Provide supporting statistics to journalists",
+          "Develop stronger sound bites around stablecoin framework benefits",
+          "Consider follow-up exclusive opportunities with BetaKit"
+        ]
+      }
+    },
+    "summary": {
+      "overall_assessment": "This is strong coverage that positions Coinbase as a thought leader in Canadian blockchain policy advocacy. The article effectively communicates their key regulatory positions while maintaining journalistic credibility through balanced reporting.",
+      "strengths": [
+        "Tier 1 outlet placement",
+        "Multiple substantive quotes from CEO",
+        "Strong framing around policy leadership",
+        "No competitor mentions",
+        "Prominent headline placement",
+        "Expert positioning on regulatory matters"
+      ],
+      "weaknesses": [
+        "Limited inclusion of specific Coinbase key messages",
+        "No supporting statistics cited",
+        "Missing some high-priority messaging around comprehensive legislative framework",
+        "No call-to-action or product mentions"
+      ],
+      "recommendations": [
+        "Work to include more specific key messages in future interviews",
+        "Provide supporting statistics to journalists",
+        "Develop stronger sound bites around stablecoin framework benefits",
+        "Consider follow-up exclusive opportunities with BetaKit"
+      ]
+    },
+    "id": "20260119111854804753",
+    "analyzed_at": "2026-01-19T11:18:54.804789"
+  },
+  {
+    "headline": "Opinion | \n                             \n            \n            Canada\u2019s stablecoin rules are a breakthrough. Now, we need to finish the job",
+    "outlet": "thestar.com",
+    "author": "Tom Duff Gordon",
+    "client": "Coinbase",
+    "url": "https://www.thestar.com/business/opinion/canada-s-stablecoin-rules-are-a-breakthrough-now-we-need-to-finish-the-job/article_1231e878-e9fc-4eca-9cf7-6ab89f929d78.html",
+    "total_score": 85.5,
+    "tier_scores": {
+      "tier_1_foundational": {
+        "name": "Tier 1 - Foundational",
+        "score": 36,
+        "max": 36
+      },
+      "tier_2_messaging": {
+        "name": "Tier 2 - Messaging & Voice",
+        "score": 16.5,
+        "max": 30
+      },
+      "tier_3_prominence": {
+        "name": "Tier 3 - Prominence & Position",
+        "score": 1.5,
+        "max": 10
+      },
+      "tier_4_credibility": {
+        "name": "Tier 4 - Credibility & Spokesperson",
+        "score": 8.0,
+        "max": 10
+      },
+      "tier_5_competitive": {
+        "name": "Tier 5 - Competitive Dynamics",
+        "score": 6.5,
+        "max": 9
+      },
+      "tier_6_audience_fit": {
+        "name": "Tier 6 - Outlet & Audience Fit",
+        "score": 5.5,
+        "max": 6.5
+      },
+      "tier_7_supporting": {
+        "name": "Tier 7 - Supporting Details",
+        "score": 1.0,
+        "max": 2.5
+      },
+      "bonus": {
+        "name": "Bonus Points",
+        "score": 10.5,
+        "max": 16
+      }
+    },
+    "detailed_scores": {
+      "tier_1_foundational": {
+        "outlet_tier": {
+          "score": 20,
+          "reasoning": "The Toronto Star is a Tier 1 outlet - Canada's largest daily newspaper with significant national reach and influence."
+        },
+        "overall_sentiment": {
+          "score": 7,
+          "reasoning": "Extremely positive sentiment throughout. The article celebrates Canada's stablecoin framework as a 'breakthrough' and 'most significant moment for digital assets' in Canada."
+        },
+        "article_exclusively_about_client": {
+          "score": 4,
+          "reasoning": "This is an opinion piece authored by Coinbase's VP, making it exclusively focused on advancing Coinbase's perspective and interests regarding stablecoin regulation."
+        },
+        "article_type": {
+          "score": 2,
+          "reasoning": "This is a feature-length opinion piece with substantial depth, analysis, and policy recommendations - more comprehensive than a basic news article."
+        },
+        "tone_toward_client": {
+          "score": 3,
+          "reasoning": "Extremely positive tone as the article is written by Coinbase's own representative, positioning the company as a thought leader in policy discussions."
+        }
+      },
+      "tier_2_messaging": {
+        "key_messages_high": {
+          "score": 9,
+          "reasoning": "All four high-priority messages are effectively covered: comprehensive legislative framework, Canada's leadership opportunity, risk of falling behind, and bipartisan potential.",
+          "messages_found": [
+            "This would be the first time Canada is proposing a comprehensive legislative framework for stablecoins",
+            "Canada has an opportunity to lead again on financial innovation",
+            "Without clear rules, Canada risks falling behind other G7 nations",
+            "Stablecoin legislation has the potential to be a bipartisan issue"
+          ]
+        },
+        "key_messages_medium": {
+          "score": 1.5,
+          "reasoning": "One medium-priority message is clearly addressed - that other G7 nations have already implemented regulations and Canada is catching up.",
+          "messages_found": [
+            "The EU, U.S., Japan, and the U.K. have already implemented or drafted stablecoin regulations\u2014Canada is catching up"
+          ]
+        },
+        "key_messages_low": {
+          "score": 0,
+          "reasoning": "None of the low-priority statistical messages (transaction fees, survey data, market projections) are included in the article.",
+          "messages_found": []
+        },
+        "direct_quote_included": {
+          "score": 0,
+          "reasoning": "Since this is an op-ed written by the Coinbase spokesperson himself, there are no traditional quoted statements - the entire article serves as extended commentary."
+        },
+        "number_of_quotes": {
+          "score": 0,
+          "reasoning": "No direct quotes present as this is an opinion piece authored by the client representative.",
+          "quote_count": 0
+        },
+        "preferred_framing_used": {
+          "score": 5,
+          "reasoning": "Excellent use of preferred framing - positions stablecoins as beneficial for consumers, emphasizes regulatory clarity, focuses on economic benefits and competitiveness."
+        },
+        "data_stat_cited": {
+          "score": 1,
+          "reasoning": "Limited statistical data - mentions 3% interest rate potential for Canadians but lacks the specific economic impact figures from key messages."
+        }
+      },
+      "tier_3_prominence": {
+        "paragraph_first_mention": {
+          "score": 0.5,
+          "reasoning": "Coinbase is not mentioned until the author bio, which appears multiple times but the brand itself isn't prominently featured in early paragraphs of the main content.",
+          "paragraph_number": 20
+        },
+        "brand_in_opening": {
+          "score": 0,
+          "reasoning": "Coinbase is not mentioned in the opening paragraphs of the article content, only in the author identification."
+        },
+        "percentage_focused_on_client": {
+          "score": 1,
+          "reasoning": "While written by Coinbase's representative, approximately 80% focuses on policy issues rather than directly promoting Coinbase as a company.",
+          "percentage": 80
+        },
+        "brand_in_closing": {
+          "score": 0,
+          "reasoning": "The closing focuses on industry-government collaboration rather than specifically mentioning Coinbase."
+        },
+        "total_brand_mentions": {
+          "score": 0,
+          "reasoning": "Coinbase is mentioned 3 times, but only in author bio contexts, not within the main article content.",
+          "mention_count": 3
+        }
+      },
+      "tier_4_credibility": {
+        "spokesperson_named": {
+          "score": 2.5,
+          "reasoning": "Tom Duff Gordon is clearly identified as the author and Coinbase representative.",
+          "spokesperson": "Tom Duff Gordon"
+        },
+        "framed_as_expert": {
+          "score": 2,
+          "reasoning": "Strongly positioned as a policy expert through his title 'vice president of international policy' and the depth of regulatory analysis provided."
+        },
+        "framed_as_innovator": {
+          "score": 1,
+          "reasoning": "Moderate positioning as innovator through discussion of forward-thinking regulatory approaches and technological advancement."
+        },
+        "spokesperson_title": {
+          "score": 1.5,
+          "reasoning": "Full executive title provided: 'vice president of international policy at Coinbase'.",
+          "title": "vice president of international policy"
+        },
+        "positive_trend_association": {
+          "score": 1,
+          "reasoning": "Strongly associates Coinbase with positive trends in financial innovation, regulatory progress, and economic modernization."
+        },
+        "problem_association": {
+          "score": 0,
+          "reasoning": "No negative associations or problems linked to Coinbase in the article."
+        }
+      },
+      "tier_5_competitive": {
+        "positioned_as_leader": {
+          "score": 2,
+          "reasoning": "Implicitly positioned as a thought leader by having their executive author a major policy piece in Canada's leading newspaper."
+        },
+        "mentioned_before_competitors": {
+          "score": 1.5,
+          "reasoning": "Coinbase is the only crypto company mentioned, giving them complete voice in the narrative."
+        },
+        "share_of_voice": {
+          "score": 1.5,
+          "reasoning": "100% share of voice as no competitors are mentioned in the article.",
+          "client_share": 100
+        },
+        "competitors_mentioned": {
+          "score": 0,
+          "reasoning": "No competitors are mentioned, which is positive for Coinbase's positioning."
+        },
+        "more_quotes_than_competitors": {
+          "score": 1.5,
+          "reasoning": "Coinbase has exclusive voice through their executive's authorship while competitors have no presence."
+        },
+        "number_competitors_mentioned": {
+          "score": 0,
+          "reasoning": "No competitors mentioned, avoiding any penalty.",
+          "competitor_count": 0,
+          "competitors_found": []
+        },
+        "competitor_in_headline": {
+          "score": 0,
+          "reasoning": "No competitors appear in the headline."
+        }
+      },
+      "tier_6_audience_fit": {
+        "outlet_industry_relevance": {
+          "score": 2.5,
+          "reasoning": "The Toronto Star covers financial and policy news but isn't specialized in fintech/crypto, though this policy focus makes it quite relevant."
+        },
+        "outlet_audience_relevance": {
+          "score": 3,
+          "reasoning": "Excellent fit - reaches Canadian policymakers, business leaders, and general public who are the target audience for stablecoin adoption and regulatory support."
+        }
+      },
+      "tier_7_supporting": {
+        "cta_or_product_mention": {
+          "score": 0,
+          "reasoning": "No specific call-to-action or product promotion - focuses on policy advocacy rather than commercial messaging."
+        },
+        "article_length": {
+          "score": 0.5,
+          "reasoning": "Substantial length at approximately 800+ words, providing comprehensive coverage of the topic.",
+          "word_count": 850
+        },
+        "brand_only_in_headline": {
+          "score": 0,
+          "reasoning": "Brand does not appear in the headline."
+        },
+        "exclusive_story": {
+          "score": 0.5,
+          "reasoning": "This appears to be an exclusive op-ed piece commissioned by or offered to The Star."
+        },
+        "journalist_covered_before": {
+          "score": 0,
+          "reasoning": "No indication of previous coverage relationship, and this is authored by client rather than journalist."
+        }
+      },
+      "bonus": {
+        "op_ed_by_client": {
+          "score": 8,
+          "reasoning": "This is clearly an opinion piece (marked as 'Opinion') authored by Tom Duff Gordon, Coinbase's VP of international policy, published in The Toronto Star, a Tier 1 outlet."
+        },
+        "brand_in_headline": {
+          "score": 0,
+          "reasoning": "Coinbase does not appear in the headline."
+        },
+        "syndicated": {
+          "score": 0,
+          "reasoning": "No evidence of syndication to other outlets."
+        },
+        "ranks_for_keywords": {
+          "score": 1.5,
+          "reasoning": "Likely to rank well for 'Canada stablecoin regulation' and related policy keywords given the outlet authority and topic focus."
+        },
+        "appears_in_google_news": {
+          "score": 1,
+          "reasoning": "Toronto Star content typically appears in Google News, especially for major policy topics."
+        },
+        "open_access": {
+          "score": 0,
+          "reasoning": "The Toronto Star typically has paywall restrictions."
+        }
+      },
+      "summary": {
+        "overall_assessment": "This is exceptional coverage for Coinbase, featuring their executive as the sole voice in a comprehensive policy discussion in Canada's leading newspaper. The op-ed format allows Coinbase to directly advance their policy agenda while being positioned as a thought leader.",
+        "strengths": [
+          "Tier 1 outlet placement",
+          "Op-ed format gives complete control over messaging",
+          "Covers all high-priority key messages",
+          "Positions Coinbase as policy thought leader",
+          "No competitor mentions",
+          "Comprehensive policy analysis"
+        ],
+        "weaknesses": [
+          "Brand name not prominent in article content",
+          "Missing specific economic data from key messages",
+          "No direct product promotion",
+          "Limited statistical backing for claims"
+        ],
+        "recommendations": [
+          "Seek similar op-ed opportunities in other major outlets",
+          "Include more specific economic impact data in future policy pieces",
+          "Consider follow-up pieces as regulations develop",
+          "Leverage this piece for speaking opportunities and policy discussions"
+        ]
+      }
+    },
+    "summary": {
+      "overall_assessment": "This is exceptional coverage for Coinbase, featuring their executive as the sole voice in a comprehensive policy discussion in Canada's leading newspaper. The op-ed format allows Coinbase to directly advance their policy agenda while being positioned as a thought leader.",
+      "strengths": [
+        "Tier 1 outlet placement",
+        "Op-ed format gives complete control over messaging",
+        "Covers all high-priority key messages",
+        "Positions Coinbase as policy thought leader",
+        "No competitor mentions",
+        "Comprehensive policy analysis"
+      ],
+      "weaknesses": [
+        "Brand name not prominent in article content",
+        "Missing specific economic data from key messages",
+        "No direct product promotion",
+        "Limited statistical backing for claims"
+      ],
+      "recommendations": [
+        "Seek similar op-ed opportunities in other major outlets",
+        "Include more specific economic impact data in future policy pieces",
+        "Consider follow-up pieces as regulations develop",
+        "Leverage this piece for speaking opportunities and policy discussions"
+      ]
+    },
+    "id": "20260119111750724858",
+    "analyzed_at": "2026-01-19T11:17:50.724910"
+  },
+  {
+    "headline": "Ottawa\u2019s new stablecoin framework a key step toward monetary sovereignty, advocates say",
+    "outlet": "The Globe and Mail ",
+    "author": "",
+    "client": "Coinbase",
+    "url": "https://www.theglobeandmail.com/investing/personal-finance/article-ottawa-stablecoin-regulation-framework-crypto/",
+    "total_score": 65.0,
+    "tier_scores": {
+      "tier_1_foundational": {
+        "name": "Tier 1 - Foundational",
+        "score": 23,
+        "max": 36
+      },
+      "tier_2_messaging": {
+        "name": "Tier 2 - Messaging & Voice",
+        "score": 18.5,
+        "max": 30
+      },
+      "tier_3_prominence": {
+        "name": "Tier 3 - Prominence & Position",
+        "score": 1,
+        "max": 10
+      },
+      "tier_4_credibility": {
+        "name": "Tier 4 - Credibility & Spokesperson",
+        "score": 6.0,
+        "max": 10
+      },
+      "tier_5_competitive": {
+        "name": "Tier 5 - Competitive Dynamics",
+        "score": 4.5,
+        "max": 9
+      },
+      "tier_6_audience_fit": {
+        "name": "Tier 6 - Outlet & Audience Fit",
+        "score": 6.5,
+        "max": 6.5
+      },
+      "tier_7_supporting": {
+        "name": "Tier 7 - Supporting Details",
+        "score": 0.5,
+        "max": 2.5
+      },
+      "bonus": {
+        "name": "Bonus Points",
+        "score": 5.0,
+        "max": 8
+      }
+    },
+    "detailed_scores": {
+      "tier_1_foundational": {
+        "outlet_tier": {
+          "score": 10,
+          "reasoning": "The Globe and Mail is listed as Tier 1 outlet, which should award 15 points according to guidelines, but the scoring range is 0-10, so awarding maximum 10 points"
+        },
+        "overall_sentiment": {
+          "score": 6,
+          "reasoning": "Very positive sentiment toward stablecoin regulation and Canadian innovation. Article frames developments positively as progress and leadership opportunity"
+        },
+        "brand_in_headline": {
+          "score": 0,
+          "reasoning": "Coinbase is not mentioned in the headline 'Ottawa's new stablecoin framework a key step toward monetary sovereignty, advocates say'"
+        },
+        "article_exclusively_about_client": {
+          "score": 1,
+          "reasoning": "Article is primarily about Canadian stablecoin regulation framework, not exclusively about Coinbase. Client gets one quote but is not the main focus"
+        },
+        "article_type": {
+          "score": 3,
+          "reasoning": "News article about regulatory developments - neutral journalistic coverage rather than opinion or feature piece"
+        },
+        "tone_toward_client": {
+          "score": 3,
+          "reasoning": "Tone toward Coinbase is positive - spokesperson quoted favorably praising the framework as 'thoughtful, constructive and comparable to the Genius Act'"
+        }
+      },
+      "tier_2_messaging": {
+        "key_messages_high": {
+          "score": 6,
+          "reasoning": "Found 2 high-priority messages: Canada has opportunity to lead on financial innovation (mentioned throughout), and Canada risks falling behind other nations (referenced with U.S. comparison)",
+          "messages_found": [
+            "Canada has an opportunity to lead again on financial innovation",
+            "Without clear rules, Canada risks falling behind other G7 nations"
+          ]
+        },
+        "key_messages_medium": {
+          "score": 1.5,
+          "reasoning": "Found 1 medium-priority message about other countries having implemented regulations (U.S. Genius Act mentioned)",
+          "messages_found": [
+            "The EU, U.S., Japan, and the U.K. have already implemented or drafted stablecoin regulations"
+          ]
+        },
+        "key_messages_low": {
+          "score": 0,
+          "reasoning": "None of the low-priority messages about transaction fees, Canadian opinions on financial system updates, or market size projections were mentioned",
+          "messages_found": []
+        },
+        "direct_quote_included": {
+          "score": 6,
+          "reasoning": "Coinbase Canada CEO Lucas Matheson is directly quoted: 'We don't need to invent new technology' and praising the framework as thoughtful and constructive"
+        },
+        "number_of_quotes": {
+          "score": 1,
+          "reasoning": "One direct quote from Coinbase spokesperson",
+          "quote_count": 1
+        },
+        "preferred_framing_used": {
+          "score": 4,
+          "reasoning": "Article uses preferred framing around Canadian leadership, innovation, and competitive positioning against other nations"
+        },
+        "data_stat_cited": {
+          "score": 0,
+          "reasoning": "None of Coinbase's preferred statistics (GDP impact, remittance costs, transaction fees) were cited in the article"
+        }
+      },
+      "tier_3_prominence": {
+        "paragraph_first_mention": {
+          "score": 1,
+          "reasoning": "Coinbase first mentioned in paragraph 14 of the article, which falls in the 11-15 range",
+          "paragraph_number": 14
+        },
+        "brand_in_opening": {
+          "score": 0,
+          "reasoning": "Coinbase is not mentioned in the opening paragraphs of the article"
+        },
+        "percentage_focused_on_client": {
+          "score": 0,
+          "reasoning": "Approximately 5-10% of article focuses on Coinbase - most content is about general regulatory framework",
+          "percentage": 8
+        },
+        "brand_in_closing": {
+          "score": 0,
+          "reasoning": "Coinbase is not mentioned in the closing paragraphs - article ends with discussion of bank regulations"
+        },
+        "total_brand_mentions": {
+          "score": 0,
+          "reasoning": "Coinbase mentioned only twice in the article (brand name once, spokesperson once)",
+          "mention_count": 2
+        }
+      },
+      "tier_4_credibility": {
+        "spokesperson_named": {
+          "score": 2.5,
+          "reasoning": "Lucas Matheson, Coinbase Canada chief executive, is named as spokesperson",
+          "spokesperson": "Lucas Matheson"
+        },
+        "framed_as_expert": {
+          "score": 1,
+          "reasoning": "Spokesperson's opinion on the framework is presented as informed industry perspective on existing technology"
+        },
+        "framed_as_innovator": {
+          "score": 0,
+          "reasoning": "Coinbase is not specifically framed as an innovator in this article"
+        },
+        "spokesperson_title": {
+          "score": 1.5,
+          "reasoning": "Full title 'Coinbase Canada chief executive' is provided, establishing clear authority",
+          "title": "Coinbase Canada chief executive"
+        },
+        "positive_trend_association": {
+          "score": 1,
+          "reasoning": "Coinbase associated with positive regulatory developments and technological readiness"
+        },
+        "problem_association": {
+          "score": 0,
+          "reasoning": "No negative associations or problems linked to Coinbase in the article"
+        }
+      },
+      "tier_5_competitive": {
+        "positioned_as_leader": {
+          "score": 0,
+          "reasoning": "Coinbase is not positioned as a leader - just one voice among several industry stakeholders"
+        },
+        "mentioned_before_competitors": {
+          "score": 1.5,
+          "reasoning": "No direct competitors mentioned in the article, so Coinbase gets full points by default"
+        },
+        "share_of_voice": {
+          "score": 1.5,
+          "reasoning": "Coinbase is the only crypto exchange mentioned, giving them 100% share of voice in their category",
+          "client_share": 100
+        },
+        "competitors_mentioned": {
+          "score": 0,
+          "reasoning": "No competitors (Kraken, Binance, WonderFi) are mentioned in the article"
+        },
+        "more_quotes_than_competitors": {
+          "score": 1.5,
+          "reasoning": "Coinbase has more quotes than competitors since no competitors are quoted"
+        },
+        "number_competitors_mentioned": {
+          "score": 0,
+          "reasoning": "No competitors mentioned",
+          "competitor_count": 0,
+          "competitors_found": []
+        },
+        "competitor_in_headline": {
+          "score": 0,
+          "reasoning": "No competitors mentioned in headline"
+        }
+      },
+      "tier_6_audience_fit": {
+        "outlet_industry_relevance": {
+          "score": 3.5,
+          "reasoning": "The Globe and Mail covers financial services and fintech extensively, making it highly relevant for cryptocurrency/fintech coverage"
+        },
+        "outlet_audience_relevance": {
+          "score": 3,
+          "reasoning": "Business and financial decision-makers who read The Globe and Mail are ideal audience for Coinbase's B2B and retail services"
+        }
+      },
+      "tier_7_supporting": {
+        "cta_or_product_mention": {
+          "score": 0,
+          "reasoning": "No call-to-action or specific product mentions for Coinbase"
+        },
+        "article_length": {
+          "score": 0.5,
+          "reasoning": "Substantial article length (approximately 800+ words) provides good context and depth",
+          "word_count": 850
+        },
+        "brand_only_in_headline": {
+          "score": 0,
+          "reasoning": "Brand is not in headline at all"
+        },
+        "exclusive_story": {
+          "score": 0,
+          "reasoning": "Not an exclusive story - covering public government announcement"
+        },
+        "journalist_covered_before": {
+          "score": 0,
+          "reasoning": "No information provided about journalist's previous coverage of Coinbase"
+        }
+      },
+      "bonus": {
+        "tier_1_outlet_bonus": {
+          "score": 3,
+          "reasoning": "The Globe and Mail is a Tier 1 outlet, award 3 bonus points"
+        },
+        "journalist_beat_alignment": {
+          "score": 0.5,
+          "reasoning": "Mariya Postelnyak appears to cover fintech and regulatory topics, good alignment with client"
+        },
+        "open_access": {
+          "score": 0,
+          "reasoning": "No indication article is open access"
+        },
+        "appears_in_google_news": {
+          "score": 0.5,
+          "reasoning": "Globe and Mail content typically appears in Google News"
+        },
+        "ranks_for_keywords": {
+          "score": 1,
+          "reasoning": "Likely to rank for stablecoin, Canada regulation, cryptocurrency keywords"
+        },
+        "syndicated": {
+          "score": 0,
+          "reasoning": "No indication of syndication"
+        }
+      },
+      "summary": {
+        "overall_assessment": "This is solid coverage in a premier business publication, though Coinbase plays a supporting role rather than being the main focus. The coverage is positive and positions the company as a knowledgeable industry player commenting on favorable regulatory developments.",
+        "strengths": [
+          "Tier 1 outlet placement",
+          "Positive spokesperson quote",
+          "CEO properly identified and titled",
+          "No competitor mentions",
+          "Good industry and audience relevance"
+        ],
+        "weaknesses": [
+          "Late mention in article",
+          "Limited focus on client",
+          "No key statistics cited",
+          "Missing high-priority messaging about comprehensive framework",
+          "No call-to-action or product mentions"
+        ],
+        "recommendations": [
+          "Provide more specific data points for journalists to use",
+          "Develop stronger positioning as category leader",
+          "Create more comprehensive commentary on regulatory implications",
+          "Offer exclusive insights to secure earlier and more prominent mentions"
+        ]
+      }
+    },
+    "summary": {
+      "overall_assessment": "This is solid coverage in a premier business publication, though Coinbase plays a supporting role rather than being the main focus. The coverage is positive and positions the company as a knowledgeable industry player commenting on favorable regulatory developments.",
+      "strengths": [
+        "Tier 1 outlet placement",
+        "Positive spokesperson quote",
+        "CEO properly identified and titled",
+        "No competitor mentions",
+        "Good industry and audience relevance"
+      ],
+      "weaknesses": [
+        "Late mention in article",
+        "Limited focus on client",
+        "No key statistics cited",
+        "Missing high-priority messaging about comprehensive framework",
+        "No call-to-action or product mentions"
+      ],
+      "recommendations": [
+        "Provide more specific data points for journalists to use",
+        "Develop stronger positioning as category leader",
+        "Create more comprehensive commentary on regulatory implications",
+        "Offer exclusive insights to secure earlier and more prominent mentions"
+      ]
+    },
+    "batch_id": "20260119102812912983",
+    "batch_name": "Coinbase Jan 2026",
+    "id": "20260119102812942294",
+    "analyzed_at": "2026-01-19T10:28:12.942310"
+  },
+  {
+    "headline": "Canada Approves Budget That Advances Policy for Stablecoins",
+    "outlet": "CryptoNews",
+    "author": "",
+    "client": "Coinbase",
+    "url": "https://cryptonews.net/news/finance/32005764/",
+    "total_score": 55.0,
+    "tier_scores": {
+      "tier_1_foundational": {
+        "name": "Tier 1 - Foundational",
+        "score": 16,
+        "max": 36
+      },
+      "tier_2_messaging": {
+        "name": "Tier 2 - Messaging & Voice",
+        "score": 14.5,
+        "max": 30
+      },
+      "tier_3_prominence": {
+        "name": "Tier 3 - Prominence & Position",
+        "score": 4,
+        "max": 10
+      },
+      "tier_4_credibility": {
+        "name": "Tier 4 - Credibility & Spokesperson",
+        "score": 7.0,
+        "max": 10
+      },
+      "tier_5_competitive": {
+        "name": "Tier 5 - Competitive Dynamics",
+        "score": 5.5,
+        "max": 9
+      },
+      "tier_6_audience_fit": {
+        "name": "Tier 6 - Outlet & Audience Fit",
+        "score": 6.5,
+        "max": 6.5
+      },
+      "tier_7_supporting": {
+        "name": "Tier 7 - Supporting Details",
+        "score": 0.5,
+        "max": 2.5
+      },
+      "bonus": {
+        "name": "Bonus Points",
+        "score": 1.0,
+        "max": 8
+      }
+    },
+    "detailed_scores": {
+      "tier_1_foundational": {
+        "outlet_tier": {
+          "score": 6,
+          "reasoning": "CryptoNews is a Tier 3 outlet, which receives 6 points according to the scoring guidelines"
+        },
+        "overall_sentiment": {
+          "score": 5,
+          "reasoning": "The article has neutral to slightly positive sentiment toward Coinbase, presenting their perspective on the policy and including their statement about it being 'a step in the right direction'"
+        },
+        "brand_in_headline": {
+          "score": 0,
+          "reasoning": "Coinbase is not mentioned in the headline 'Canada Approves Budget That Advances Policy for Stablecoins'"
+        },
+        "article_exclusively_about_client": {
+          "score": 1,
+          "reasoning": "The article is primarily about Canada's stablecoin policy with Coinbase mentioned as one stakeholder providing commentary"
+        },
+        "article_type": {
+          "score": 2,
+          "reasoning": "This is a news article about regulatory developments, which is moderately favorable for the client's positioning"
+        },
+        "tone_toward_client": {
+          "score": 2,
+          "reasoning": "The tone is respectful and neutral, presenting Coinbase's perspective without criticism"
+        }
+      },
+      "tier_2_messaging": {
+        "key_messages_high": {
+          "score": 3,
+          "reasoning": "The article touches on the comprehensive legislative framework concept and mentions global competitiveness, covering approximately 1 high-priority message",
+          "messages_found": [
+            "Canada has an opportunity to lead again on financial innovation"
+          ]
+        },
+        "key_messages_medium": {
+          "score": 0,
+          "reasoning": "None of the medium-priority messages about GDP impact, remittance costs, or international comparisons are explicitly mentioned",
+          "messages_found": []
+        },
+        "key_messages_low": {
+          "score": 0.5,
+          "reasoning": "The article mentions the global stablecoin market growth expectation",
+          "messages_found": [
+            "The global stablecoin market is expected to grow"
+          ]
+        },
+        "direct_quote_included": {
+          "score": 6,
+          "reasoning": "The article includes direct quotes from Coinbase Canada CEO Lucas Matheson"
+        },
+        "number_of_quotes": {
+          "score": 2,
+          "reasoning": "There are 2 substantial quotes from the Coinbase spokesperson",
+          "quote_count": 2
+        },
+        "preferred_framing_used": {
+          "score": 3,
+          "reasoning": "The article frames the issue around Canada's competitive position globally, which aligns with Coinbase's preferred messaging"
+        },
+        "data_stat_cited": {
+          "score": 0,
+          "reasoning": "No specific Coinbase-provided statistics or data points are cited in the article"
+        }
+      },
+      "tier_3_prominence": {
+        "paragraph_first_mention": {
+          "score": 2,
+          "reasoning": "Coinbase is first mentioned in paragraph 4, which falls in the 4-6 paragraph range",
+          "paragraph_number": 4
+        },
+        "brand_in_opening": {
+          "score": 0,
+          "reasoning": "Coinbase is not mentioned in the opening paragraphs (1-3)"
+        },
+        "percentage_focused_on_client": {
+          "score": 1,
+          "reasoning": "Approximately 40% of the article focuses on Coinbase's perspective and commentary",
+          "percentage": 40
+        },
+        "brand_in_closing": {
+          "score": 0,
+          "reasoning": "The closing paragraph discusses the global stablecoin market generally, not Coinbase specifically"
+        },
+        "total_brand_mentions": {
+          "score": 1,
+          "reasoning": "Coinbase is mentioned 3 times throughout the article",
+          "mention_count": 3
+        }
+      },
+      "tier_4_credibility": {
+        "spokesperson_named": {
+          "score": 2.5,
+          "reasoning": "Lucas Matheson, Coinbase Canada CEO, is clearly named as the spokesperson",
+          "spokesperson": "Lucas Matheson"
+        },
+        "framed_as_expert": {
+          "score": 1,
+          "reasoning": "Matheson is positioned as someone providing informed commentary on the policy implications"
+        },
+        "framed_as_innovator": {
+          "score": 1,
+          "reasoning": "The context of being at the championship game with the PM and providing forward-looking policy suggestions frames Coinbase as innovative"
+        },
+        "spokesperson_title": {
+          "score": 1.5,
+          "reasoning": "The full title 'Coinbase Canada CEO' is provided, establishing clear authority",
+          "title": "Coinbase Canada CEO"
+        },
+        "positive_trend_association": {
+          "score": 1,
+          "reasoning": "Coinbase is associated with the positive trend of regulatory advancement and global competitiveness"
+        },
+        "problem_association": {
+          "score": 0,
+          "reasoning": "No negative issues or problems are associated with Coinbase in the article"
+        }
+      },
+      "tier_5_competitive": {
+        "positioned_as_leader": {
+          "score": 1,
+          "reasoning": "Coinbase is positioned as a thought leader by being the only exchange quoted and having access to senior government officials"
+        },
+        "mentioned_before_competitors": {
+          "score": 1.5,
+          "reasoning": "Coinbase is mentioned and no competitors are mentioned at all in the article"
+        },
+        "share_of_voice": {
+          "score": 1.5,
+          "reasoning": "Coinbase has 100% share of voice among crypto companies mentioned",
+          "client_share": 100
+        },
+        "competitors_mentioned": {
+          "score": 0,
+          "reasoning": "No competitors (Kraken, Binance, WonderFi) are mentioned in the article"
+        },
+        "more_quotes_than_competitors": {
+          "score": 1.5,
+          "reasoning": "Coinbase has multiple quotes while competitors have zero"
+        },
+        "number_competitors_mentioned": {
+          "score": 0,
+          "reasoning": "Zero competitors are mentioned, so no penalty applies",
+          "competitor_count": 0,
+          "competitors_found": []
+        },
+        "competitor_in_headline": {
+          "score": 0,
+          "reasoning": "No competitors appear in the headline"
+        }
+      },
+      "tier_6_audience_fit": {
+        "outlet_industry_relevance": {
+          "score": 3.5,
+          "reasoning": "CryptoNews is highly relevant to the cryptocurrency/fintech industry that Coinbase operates in"
+        },
+        "outlet_audience_relevance": {
+          "score": 3,
+          "reasoning": "The audience of CryptoNews would be very interested in regulatory developments affecting cryptocurrency exchanges"
+        }
+      },
+      "tier_7_supporting": {
+        "cta_or_product_mention": {
+          "score": 0,
+          "reasoning": "No specific call-to-action or product mentions are included"
+        },
+        "article_length": {
+          "score": 0.5,
+          "reasoning": "The article is substantial length, providing good depth of coverage",
+          "word_count": 320
+        },
+        "brand_only_in_headline": {
+          "score": 0,
+          "reasoning": "The brand is not in the headline"
+        },
+        "exclusive_story": {
+          "score": 0,
+          "reasoning": "This appears to be general news coverage, not an exclusive story"
+        },
+        "journalist_covered_before": {
+          "score": 0,
+          "reasoning": "No author is listed, so cannot determine previous coverage history"
+        }
+      },
+      "bonus": {
+        "tier_1_outlet_bonus": {
+          "score": 0,
+          "reasoning": "CryptoNews is Tier 3, not Tier 1, so no bonus points awarded"
+        },
+        "journalist_beat_alignment": {
+          "score": 0.5,
+          "reasoning": "The coverage aligns with cryptocurrency/fintech beat reporting"
+        },
+        "open_access": {
+          "score": 0.5,
+          "reasoning": "CryptoNews appears to be an open-access publication"
+        },
+        "appears_in_google_news": {
+          "score": 0,
+          "reasoning": "Cannot determine from the information provided"
+        },
+        "ranks_for_keywords": {
+          "score": 0,
+          "reasoning": "Cannot determine keyword ranking from the information provided"
+        },
+        "syndicated": {
+          "score": 0,
+          "reasoning": "No indication that this content was syndicated"
+        }
+      },
+      "summary": {
+        "overall_assessment": "This is solid coverage that positions Coinbase as a key stakeholder in Canada's stablecoin regulatory development. The article provides Coinbase with exclusive voice among crypto exchanges and frames their perspective positively, though it misses opportunities to include specific key messages and data points.",
+        "strengths": [
+          "Exclusive spokesperson quotes",
+          "No competitor mentions",
+          "Positive framing as policy thought leader",
+          "Industry-relevant outlet",
+          "Good spokesperson positioning"
+        ],
+        "weaknesses": [
+          "Brand not in headline",
+          "Limited key message incorporation",
+          "No specific data/statistics cited",
+          "Tier 3 outlet with limited reach",
+          "Missing high-priority messaging about Canada's leadership opportunity"
+        ],
+        "recommendations": [
+          "Pitch more data-driven angles about economic impact",
+          "Seek Tier 1 outlet coverage",
+          "Push for headline inclusion in future pitches",
+          "Develop more specific messaging about bipartisan support",
+          "Emphasize the 'first comprehensive framework' angle more strongly"
+        ]
+      }
+    },
+    "summary": {
+      "overall_assessment": "This is solid coverage that positions Coinbase as a key stakeholder in Canada's stablecoin regulatory development. The article provides Coinbase with exclusive voice among crypto exchanges and frames their perspective positively, though it misses opportunities to include specific key messages and data points.",
+      "strengths": [
+        "Exclusive spokesperson quotes",
+        "No competitor mentions",
+        "Positive framing as policy thought leader",
+        "Industry-relevant outlet",
+        "Good spokesperson positioning"
+      ],
+      "weaknesses": [
+        "Brand not in headline",
+        "Limited key message incorporation",
+        "No specific data/statistics cited",
+        "Tier 3 outlet with limited reach",
+        "Missing high-priority messaging about Canada's leadership opportunity"
+      ],
+      "recommendations": [
+        "Pitch more data-driven angles about economic impact",
+        "Seek Tier 1 outlet coverage",
+        "Push for headline inclusion in future pitches",
+        "Develop more specific messaging about bipartisan support",
+        "Emphasize the 'first comprehensive framework' angle more strongly"
+      ]
+    },
+    "batch_id": "20260119102812912983",
+    "batch_name": "Coinbase Jan 2026",
+    "id": "20260119102812939263",
+    "analyzed_at": "2026-01-19T10:28:12.939278"
+  },
+  {
+    "headline": "Canada Moves Forward with Stablecoin Regulation in New Federal Budget",
+    "outlet": "Blockonomi",
+    "author": "",
+    "client": "Coinbase",
+    "url": "https://blockonomi.com/canada-moves-forward-with-stablecoin-regulation-in-new-federal-budget/",
+    "total_score": 46.0,
+    "tier_scores": {
+      "tier_1_foundational": {
+        "name": "Tier 1 - Foundational",
+        "score": 16,
+        "max": 36
+      },
+      "tier_2_messaging": {
+        "name": "Tier 2 - Messaging & Voice",
+        "score": 7,
+        "max": 30
+      },
+      "tier_3_prominence": {
+        "name": "Tier 3 - Prominence & Position",
+        "score": 2.5,
+        "max": 10
+      },
+      "tier_4_credibility": {
+        "name": "Tier 4 - Credibility & Spokesperson",
+        "score": 6.0,
+        "max": 10
+      },
+      "tier_5_competitive": {
+        "name": "Tier 5 - Competitive Dynamics",
+        "score": 5.5,
+        "max": 9
+      },
+      "tier_6_audience_fit": {
+        "name": "Tier 6 - Outlet & Audience Fit",
+        "score": 6.5,
+        "max": 6.5
+      },
+      "tier_7_supporting": {
+        "name": "Tier 7 - Supporting Details",
+        "score": 0.5,
+        "max": 2.5
+      },
+      "bonus": {
+        "name": "Bonus Points",
+        "score": 2.0,
+        "max": 8
+      }
+    },
+    "detailed_scores": {
+      "tier_1_foundational": {
+        "outlet_tier": {
+          "score": 6,
+          "reasoning": "Tier 3 outlet as specified in metadata"
+        },
+        "overall_sentiment": {
+          "score": 5,
+          "reasoning": "Neutral to slightly positive sentiment, covers policy development objectively"
+        },
+        "brand_in_headline": {
+          "score": 0,
+          "reasoning": "Coinbase is not mentioned in the headline"
+        },
+        "article_exclusively_about_client": {
+          "score": 0,
+          "reasoning": "Article is about Canadian stablecoin regulation policy, not specifically about Coinbase"
+        },
+        "article_type": {
+          "score": 3,
+          "reasoning": "News article covering regulatory developments - favorable format for the client"
+        },
+        "tone_toward_client": {
+          "score": 2,
+          "reasoning": "Positive tone toward Coinbase, presents CEO's comments constructively"
+        }
+      },
+      "tier_2_messaging": {
+        "key_messages_high": {
+          "score": 3,
+          "reasoning": "Only captures the first high-priority message about Canada's comprehensive legislative framework for stablecoins",
+          "messages_found": [
+            "This would be the first time Canada is proposing a comprehensive legislative framework for stablecoins"
+          ]
+        },
+        "key_messages_medium": {
+          "score": 0,
+          "reasoning": "None of the medium-priority messages are present in the article",
+          "messages_found": []
+        },
+        "key_messages_low": {
+          "score": 0,
+          "reasoning": "None of the low-priority messages are captured",
+          "messages_found": []
+        },
+        "direct_quote_included": {
+          "score": 2,
+          "reasoning": "Paraphrased quote from Lucas Matheson but not a direct quote"
+        },
+        "number_of_quotes": {
+          "score": 0,
+          "reasoning": "No direct quotes included, only paraphrasing",
+          "quote_count": 0
+        },
+        "preferred_framing_used": {
+          "score": 2,
+          "reasoning": "Article frames stablecoin regulation positively as providing stability and security"
+        },
+        "data_stat_cited": {
+          "score": 0,
+          "reasoning": "No specific data or statistics from Coinbase's key messages are cited"
+        }
+      },
+      "tier_3_prominence": {
+        "paragraph_first_mention": {
+          "score": 1.5,
+          "reasoning": "Coinbase first mentioned in paragraph 7-10 range",
+          "paragraph_number": 8
+        },
+        "brand_in_opening": {
+          "score": 0,
+          "reasoning": "Coinbase not mentioned in opening paragraphs"
+        },
+        "percentage_focused_on_client": {
+          "score": 0.5,
+          "reasoning": "Approximately 25% of article focuses on Coinbase",
+          "percentage": 25
+        },
+        "brand_in_closing": {
+          "score": 0,
+          "reasoning": "Coinbase not mentioned in closing paragraph"
+        },
+        "total_brand_mentions": {
+          "score": 0.5,
+          "reasoning": "Coinbase mentioned twice (brand name and Coinbase Canada)",
+          "mention_count": 2
+        }
+      },
+      "tier_4_credibility": {
+        "spokesperson_named": {
+          "score": 2.5,
+          "reasoning": "Lucas Matheson is named as spokesperson",
+          "spokesperson": "Lucas Matheson"
+        },
+        "framed_as_expert": {
+          "score": 1,
+          "reasoning": "Positioned as industry leader providing expert commentary on policy"
+        },
+        "framed_as_innovator": {
+          "score": 0,
+          "reasoning": "Not specifically framed as an innovator in this article"
+        },
+        "spokesperson_title": {
+          "score": 1.5,
+          "reasoning": "Full title 'CEO of Coinbase Canada' is provided",
+          "title": "CEO of Coinbase Canada"
+        },
+        "positive_trend_association": {
+          "score": 1,
+          "reasoning": "Associated with positive regulatory developments and policy progress"
+        },
+        "problem_association": {
+          "score": 0,
+          "reasoning": "No negative associations present"
+        }
+      },
+      "tier_5_competitive": {
+        "positioned_as_leader": {
+          "score": 1,
+          "reasoning": "Positioned as key industry voice commenting on policy developments"
+        },
+        "mentioned_before_competitors": {
+          "score": 1.5,
+          "reasoning": "Coinbase is the only company mentioned, no competitors present"
+        },
+        "share_of_voice": {
+          "score": 1.5,
+          "reasoning": "100% share of voice among crypto companies mentioned",
+          "client_share": 100
+        },
+        "competitors_mentioned": {
+          "score": 0,
+          "reasoning": "No competitors mentioned"
+        },
+        "more_quotes_than_competitors": {
+          "score": 1.5,
+          "reasoning": "Only Coinbase spokesperson quoted, no competitor quotes"
+        },
+        "number_competitors_mentioned": {
+          "score": 0,
+          "reasoning": "No competitors mentioned",
+          "competitor_count": 0,
+          "competitors_found": []
+        },
+        "competitor_in_headline": {
+          "score": 0,
+          "reasoning": "No competitors in headline"
+        }
+      },
+      "tier_6_audience_fit": {
+        "outlet_industry_relevance": {
+          "score": 3.5,
+          "reasoning": "Blockonomi is highly relevant to cryptocurrency and blockchain industry"
+        },
+        "outlet_audience_relevance": {
+          "score": 3,
+          "reasoning": "Perfect audience match for cryptocurrency/fintech industry news"
+        }
+      },
+      "tier_7_supporting": {
+        "cta_or_product_mention": {
+          "score": 0,
+          "reasoning": "No call-to-action or specific product mentions"
+        },
+        "article_length": {
+          "score": 0.5,
+          "reasoning": "Substantial article length provides comprehensive coverage",
+          "word_count": 400
+        },
+        "brand_only_in_headline": {
+          "score": 0,
+          "reasoning": "Brand not in headline"
+        },
+        "exclusive_story": {
+          "score": 0,
+          "reasoning": "Not presented as exclusive story"
+        },
+        "journalist_covered_before": {
+          "score": 0,
+          "reasoning": "No indication of previous coverage relationship"
+        }
+      },
+      "bonus": {
+        "tier_1_outlet_bonus": {
+          "score": 0,
+          "reasoning": "Outlet is Tier 3, not Tier 1"
+        },
+        "journalist_beat_alignment": {
+          "score": 0.5,
+          "reasoning": "Maxwell Mutuma covers cryptocurrency topics, good beat alignment"
+        },
+        "open_access": {
+          "score": 0.5,
+          "reasoning": "Appears to be open access content"
+        },
+        "appears_in_google_news": {
+          "score": 0,
+          "reasoning": "Unable to verify Google News presence"
+        },
+        "ranks_for_keywords": {
+          "score": 1,
+          "reasoning": "Likely ranks for 'Canada stablecoin regulation' and related terms"
+        },
+        "syndicated": {
+          "score": 0,
+          "reasoning": "No indication of syndication"
+        }
+      },
+      "summary": {
+        "overall_assessment": "Decent coverage that positions Coinbase as a key industry voice in Canadian stablecoin regulation discussions. The article captures one high-priority message but lacks depth in key messaging integration and direct quotes.",
+        "strengths": [
+          "Only crypto company mentioned",
+          "CEO properly credentialed",
+          "Positive regulatory framing",
+          "Industry-relevant outlet",
+          "Good spokesperson positioning"
+        ],
+        "weaknesses": [
+          "Late brand mention",
+          "No direct quotes",
+          "Limited key message integration",
+          "Tier 3 outlet with limited reach",
+          "Missing important economic impact messages"
+        ],
+        "recommendations": [
+          "Secure direct quotes in future coverage",
+          "Pitch broader economic impact data",
+          "Target higher-tier outlets",
+          "Ensure earlier brand mentions",
+          "Integrate more key messages into spokesperson commentary"
+        ]
+      }
+    },
+    "summary": {
+      "overall_assessment": "Decent coverage that positions Coinbase as a key industry voice in Canadian stablecoin regulation discussions. The article captures one high-priority message but lacks depth in key messaging integration and direct quotes.",
+      "strengths": [
+        "Only crypto company mentioned",
+        "CEO properly credentialed",
+        "Positive regulatory framing",
+        "Industry-relevant outlet",
+        "Good spokesperson positioning"
+      ],
+      "weaknesses": [
+        "Late brand mention",
+        "No direct quotes",
+        "Limited key message integration",
+        "Tier 3 outlet with limited reach",
+        "Missing important economic impact messages"
+      ],
+      "recommendations": [
+        "Secure direct quotes in future coverage",
+        "Pitch broader economic impact data",
+        "Target higher-tier outlets",
+        "Ensure earlier brand mentions",
+        "Integrate more key messages into spokesperson commentary"
+      ]
+    },
+    "batch_id": "20260119102812912983",
+    "batch_name": "Coinbase Jan 2026",
+    "id": "20260119102812935473",
+    "analyzed_at": "2026-01-19T10:28:12.935494"
+  },
+  {
+    "headline": "Canada has a new plan for governing stablecoins and open banking",
+    "outlet": "The Logic",
+    "author": "",
+    "client": "Coinbase",
+    "url": "https://thelogic.co/news/open-banking-stablecoins-legislation/",
+    "total_score": 62.5,
+    "tier_scores": {
+      "tier_1_foundational": {
+        "name": "Tier 1 - Foundational",
+        "score": 22,
+        "max": 36
+      },
+      "tier_2_messaging": {
+        "name": "Tier 2 - Messaging & Voice",
+        "score": 15.5,
+        "max": 30
+      },
+      "tier_3_prominence": {
+        "name": "Tier 3 - Prominence & Position",
+        "score": 4,
+        "max": 10
+      },
+      "tier_4_credibility": {
+        "name": "Tier 4 - Credibility & Spokesperson",
+        "score": 6.0,
+        "max": 10
+      },
+      "tier_5_competitive": {
+        "name": "Tier 5 - Competitive Dynamics",
+        "score": 4.5,
+        "max": 9
+      },
+      "tier_6_audience_fit": {
+        "name": "Tier 6 - Outlet & Audience Fit",
+        "score": 6.5,
+        "max": 6.5
+      },
+      "tier_7_supporting": {
+        "name": "Tier 7 - Supporting Details",
+        "score": 0.5,
+        "max": 2.5
+      },
+      "bonus": {
+        "name": "Bonus Points",
+        "score": 3.5,
+        "max": 8
+      }
+    },
+    "detailed_scores": {
+      "tier_1_foundational": {
+        "outlet_tier": {
+          "score": 10,
+          "reasoning": "The Logic is listed as Tier 1 in the metadata, earning maximum points for outlet quality"
+        },
+        "overall_sentiment": {
+          "score": 6,
+          "reasoning": "Very positive coverage overall - describes stablecoin legislation as 'most significant moment for digital assets in Canada' and presents Coinbase spokesperson as pleased with developments"
+        },
+        "brand_in_headline": {
+          "score": 0,
+          "reasoning": "Coinbase does not appear in the headline, which focuses on Canada's stablecoin and open banking plans"
+        },
+        "article_exclusively_about_client": {
+          "score": 0,
+          "reasoning": "Article covers broader government legislation on stablecoins and open banking, with Coinbase as just one voice among several"
+        },
+        "article_type": {
+          "score": 3,
+          "reasoning": "News analysis piece covering significant regulatory developments - high-value content type"
+        },
+        "tone_toward_client": {
+          "score": 3,
+          "reasoning": "Neutral to positive tone - presents Coinbase spokesperson's views respectfully and gives platform for both support and critique of legislation"
+        }
+      },
+      "tier_2_messaging": {
+        "key_messages_high": {
+          "score": 3,
+          "reasoning": "Only captures one high-priority message about this being significant for Canada's digital asset framework, but misses other key messages about comprehensive framework, leadership opportunity, and bipartisan potential",
+          "messages_found": [
+            "This would be the first time Canada is proposing a comprehensive legislative framework for stablecoins (implied)"
+          ]
+        },
+        "key_messages_medium": {
+          "score": 1.5,
+          "reasoning": "Touches on one medium-priority message about other nations having stablecoin regulations and Canada catching up",
+          "messages_found": [
+            "The EU, U.S., Japan, and the U.K. have already implemented or drafted stablecoin regulations\u2014Canada is catching up"
+          ]
+        },
+        "key_messages_low": {
+          "score": 0,
+          "reasoning": "Does not include any of the specific low-priority statistics or data points about transaction fees, Canadian attitudes, or market growth",
+          "messages_found": []
+        },
+        "direct_quote_included": {
+          "score": 6,
+          "reasoning": "Includes substantial direct quotes from Coinbase's Lucas Matheson providing meaningful commentary on the legislation"
+        },
+        "number_of_quotes": {
+          "score": 2,
+          "reasoning": "Contains 2 direct quotes from Coinbase spokesperson Lucas Matheson",
+          "quote_count": 2
+        },
+        "preferred_framing_used": {
+          "score": 3,
+          "reasoning": "Uses preferred framing by positioning stablecoins as payment instruments rather than securities, and emphasizing regulatory clarity"
+        },
+        "data_stat_cited": {
+          "score": 0,
+          "reasoning": "Does not cite any of Coinbase's preferred statistics about GDP impact, remittance costs, or market growth projections"
+        }
+      },
+      "tier_3_prominence": {
+        "paragraph_first_mention": {
+          "score": 2,
+          "reasoning": "Coinbase is first mentioned in the second section/paragraph about stablecoin rules",
+          "paragraph_number": 2
+        },
+        "brand_in_opening": {
+          "score": 0,
+          "reasoning": "Coinbase is not mentioned in the opening paragraph, which focuses on the government legislation announcement"
+        },
+        "percentage_focused_on_client": {
+          "score": 1,
+          "reasoning": "Approximately 15-20% of article content directly relates to Coinbase's perspective",
+          "percentage": 18
+        },
+        "brand_in_closing": {
+          "score": 0,
+          "reasoning": "Coinbase is not mentioned in the closing paragraphs about next steps for legislation"
+        },
+        "total_brand_mentions": {
+          "score": 1,
+          "reasoning": "Coinbase is mentioned 2-3 times throughout the article",
+          "mention_count": 3
+        }
+      },
+      "tier_4_credibility": {
+        "spokesperson_named": {
+          "score": 2.5,
+          "reasoning": "Lucas Matheson is clearly named as the spokesperson providing quotes",
+          "spokesperson": "Lucas Matheson"
+        },
+        "framed_as_expert": {
+          "score": 1,
+          "reasoning": "Matheson is positioned as knowledgeable industry voice commenting on significant regulatory developments"
+        },
+        "framed_as_innovator": {
+          "score": 0,
+          "reasoning": "No specific framing of Coinbase or spokesperson as innovative leader in the space"
+        },
+        "spokesperson_title": {
+          "score": 1.5,
+          "reasoning": "Full title provided: 'head of Canada for the American crypto giant Coinbase'",
+          "title": "head of Canada for the American crypto giant Coinbase"
+        },
+        "positive_trend_association": {
+          "score": 1,
+          "reasoning": "Associated with positive trend of regulatory clarity and significant developments in digital assets"
+        },
+        "problem_association": {
+          "score": 0,
+          "reasoning": "No association with problems or negative issues in the coverage"
+        }
+      },
+      "tier_5_competitive": {
+        "positioned_as_leader": {
+          "score": 0,
+          "reasoning": "Not specifically positioned as a leader compared to other players in the space"
+        },
+        "mentioned_before_competitors": {
+          "score": 1.5,
+          "reasoning": "Coinbase is the only crypto exchange mentioned by name in the article"
+        },
+        "share_of_voice": {
+          "score": 1.5,
+          "reasoning": "Coinbase has 100% share of voice among crypto companies mentioned",
+          "client_share": 100
+        },
+        "competitors_mentioned": {
+          "score": 0,
+          "reasoning": "No direct competitors (Kraken, Binance, WonderFi) are mentioned by name"
+        },
+        "more_quotes_than_competitors": {
+          "score": 1.5,
+          "reasoning": "Coinbase has all the crypto industry quotes while competitors have none"
+        },
+        "number_competitors_mentioned": {
+          "score": 0,
+          "reasoning": "No direct competitors from the specified list are mentioned",
+          "competitor_count": 0,
+          "competitors_found": []
+        },
+        "competitor_in_headline": {
+          "score": 0,
+          "reasoning": "No competitors mentioned in headline"
+        }
+      },
+      "tier_6_audience_fit": {
+        "outlet_industry_relevance": {
+          "score": 3.5,
+          "reasoning": "The Logic covers fintech and innovation extensively, making it highly relevant for crypto/fintech industry coverage"
+        },
+        "outlet_audience_relevance": {
+          "score": 3,
+          "reasoning": "Audience of Canadian business leaders, policymakers, and tech industry professionals is ideal for Coinbase's regulatory messaging"
+        }
+      },
+      "tier_7_supporting": {
+        "cta_or_product_mention": {
+          "score": 0,
+          "reasoning": "No call-to-action or specific product mentions included"
+        },
+        "article_length": {
+          "score": 0.5,
+          "reasoning": "Substantial article length provides good context and detail",
+          "word_count": 650
+        },
+        "brand_only_in_headline": {
+          "score": 0,
+          "reasoning": "Brand does not appear in headline at all"
+        },
+        "exclusive_story": {
+          "score": 0,
+          "reasoning": "Not presented as exclusive to Coinbase - covers broader regulatory announcement"
+        },
+        "journalist_covered_before": {
+          "score": 0,
+          "reasoning": "No information provided about previous coverage by this journalist"
+        }
+      },
+      "bonus": {
+        "tier_1_outlet_bonus": {
+          "score": 3,
+          "reasoning": "Award 3 pts as The Logic is confirmed as Tier 1 outlet"
+        },
+        "journalist_beat_alignment": {
+          "score": 0.5,
+          "reasoning": "Claire Brownell appears to cover fintech and regulatory topics based on article quality"
+        },
+        "open_access": {
+          "score": 0,
+          "reasoning": "Article appears to be behind paywall based on subscription messaging"
+        },
+        "appears_in_google_news": {
+          "score": 0,
+          "reasoning": "No information provided about Google News inclusion"
+        },
+        "ranks_for_keywords": {
+          "score": 0,
+          "reasoning": "No information provided about keyword ranking"
+        },
+        "syndicated": {
+          "score": 0,
+          "reasoning": "No indication of syndication to other outlets"
+        }
+      },
+      "summary": {
+        "overall_assessment": "Strong coverage in a high-quality outlet with meaningful quotes from Coinbase's Canadian head, though it misses opportunities to include key messaging about economic benefits and Canada's competitive position. The piece positions Coinbase as the primary crypto industry voice on significant regulatory developments.",
+        "strengths": [
+          "Tier 1 outlet placement",
+          "Multiple substantial quotes from named spokesperson",
+          "Positive framing of regulatory developments",
+          "No competitor mentions diluting message",
+          "Expert positioning in regulatory discussion"
+        ],
+        "weaknesses": [
+          "Missing key high-priority messages about GDP impact and competitive positioning",
+          "No specific data or statistics cited",
+          "Limited focus on Coinbase relative to overall government story",
+          "Brand not mentioned in headline or opening"
+        ],
+        "recommendations": [
+          "Provide reporters with specific economic data and statistics for future coverage",
+          "Develop stronger narrative around Canada's competitive position vs other G7 nations",
+          "Seek opportunities for more prominent placement in regulatory stories",
+          "Consider exclusive interviews to increase share of voice"
+        ]
+      }
+    },
+    "summary": {
+      "overall_assessment": "Strong coverage in a high-quality outlet with meaningful quotes from Coinbase's Canadian head, though it misses opportunities to include key messaging about economic benefits and Canada's competitive position. The piece positions Coinbase as the primary crypto industry voice on significant regulatory developments.",
+      "strengths": [
+        "Tier 1 outlet placement",
+        "Multiple substantial quotes from named spokesperson",
+        "Positive framing of regulatory developments",
+        "No competitor mentions diluting message",
+        "Expert positioning in regulatory discussion"
+      ],
+      "weaknesses": [
+        "Missing key high-priority messages about GDP impact and competitive positioning",
+        "No specific data or statistics cited",
+        "Limited focus on Coinbase relative to overall government story",
+        "Brand not mentioned in headline or opening"
+      ],
+      "recommendations": [
+        "Provide reporters with specific economic data and statistics for future coverage",
+        "Develop stronger narrative around Canada's competitive position vs other G7 nations",
+        "Seek opportunities for more prominent placement in regulatory stories",
+        "Consider exclusive interviews to increase share of voice"
+      ]
+    },
+    "batch_id": "20260119102812912983",
+    "batch_name": "Coinbase Jan 2026",
+    "id": "20260119102812930044",
+    "analyzed_at": "2026-01-19T10:28:12.930060"
+  },
+  {
+    "headline": "Crypto advocates want blockchain tech added to Canadian AI minister\u2019s portfolio",
+    "outlet": "BetaKit",
+    "author": "",
+    "client": "Coinbase",
+    "url": "https://betakit.com/crypto-advocates-want-blockchain-tech-added-to-canadian-ai-ministers-portfolio/",
+    "total_score": 83.0,
+    "tier_scores": {
+      "tier_1_foundational": {
+        "name": "Tier 1 - Foundational",
+        "score": 25,
+        "max": 36
+      },
+      "tier_2_messaging": {
+        "name": "Tier 2 - Messaging & Voice",
+        "score": 21.5,
+        "max": 30
+      },
+      "tier_3_prominence": {
+        "name": "Tier 3 - Prominence & Position",
+        "score": 9,
+        "max": 10
+      },
+      "tier_4_credibility": {
+        "name": "Tier 4 - Credibility & Spokesperson",
+        "score": 8.0,
+        "max": 10
+      },
+      "tier_5_competitive": {
+        "name": "Tier 5 - Competitive Dynamics",
+        "score": 6.5,
+        "max": 9
+      },
+      "tier_6_audience_fit": {
+        "name": "Tier 6 - Outlet & Audience Fit",
+        "score": 6.5,
+        "max": 6.5
+      },
+      "tier_7_supporting": {
+        "name": "Tier 7 - Supporting Details",
+        "score": 1.0,
+        "max": 2.5
+      },
+      "bonus": {
+        "name": "Bonus Points",
+        "score": 5.5,
+        "max": 8
+      }
+    },
+    "detailed_scores": {
+      "tier_1_foundational": {
+        "outlet_tier": {
+          "score": 10,
+          "reasoning": "BetaKit is listed as Tier 1 outlet, awarding full 10 points"
+        },
+        "overall_sentiment": {
+          "score": 6,
+          "reasoning": "Article is largely positive toward Coinbase, presenting their advocacy efforts favorably and giving significant voice to their spokesperson without criticism"
+        },
+        "brand_in_headline": {
+          "score": 0,
+          "reasoning": "Coinbase is not mentioned in the headline 'Crypto advocates want blockchain tech added to Canadian AI minister's portfolio'"
+        },
+        "article_exclusively_about_client": {
+          "score": 2,
+          "reasoning": "While Coinbase and Lucas Matheson are central figures, the article also extensively covers John Ruffolo's perspectives and broader industry context"
+        },
+        "article_type": {
+          "score": 4,
+          "reasoning": "This is a news/feature article covering Coinbase's advocacy efforts and policy positions - the most valuable type of coverage"
+        },
+        "tone_toward_client": {
+          "score": 3,
+          "reasoning": "Tone is professional and respectful throughout, presenting Coinbase as a legitimate industry voice without any negative characterization"
+        }
+      },
+      "tier_2_messaging": {
+        "key_messages_high": {
+          "score": 6,
+          "reasoning": "Found 2 high-priority messages: Canada's opportunity to lead on digital sovereignty/innovation, and risks of falling behind without clear rules",
+          "messages_found": [
+            "Canada has an opportunity to lead again on financial innovation",
+            "Without clear rules, Canada risks falling behind other nations"
+          ]
+        },
+        "key_messages_medium": {
+          "score": 1.5,
+          "reasoning": "Found 1 medium-priority message about other nations implementing stablecoin regulations",
+          "messages_found": [
+            "The EU, U.S., Japan, and the U.K. have already implemented or drafted stablecoin regulations"
+          ]
+        },
+        "key_messages_low": {
+          "score": 0,
+          "reasoning": "None of the low-priority messages about transaction fees, consumer sentiment, or market size were included",
+          "messages_found": []
+        },
+        "direct_quote_included": {
+          "score": 6,
+          "reasoning": "Multiple substantial direct quotes from Lucas Matheson are included throughout the article"
+        },
+        "number_of_quotes": {
+          "score": 3,
+          "reasoning": "More than 3 quotes from Coinbase spokesperson Lucas Matheson",
+          "quote_count": 4
+        },
+        "preferred_framing_used": {
+          "score": 4,
+          "reasoning": "Article uses preferred framing around digital sovereignty, leadership opportunity, and stablecoins as innovation rather than risk"
+        },
+        "data_stat_cited": {
+          "score": 1,
+          "reasoning": "Article cites that 99% of stablecoins are pegged to USD and Coinbase's $500B+ assets under management"
+        }
+      },
+      "tier_3_prominence": {
+        "paragraph_first_mention": {
+          "score": 3,
+          "reasoning": "Coinbase is mentioned in the first paragraph",
+          "paragraph_number": 1
+        },
+        "brand_in_opening": {
+          "score": 3,
+          "reasoning": "Coinbase appears prominently in the opening paragraph as the main subject"
+        },
+        "percentage_focused_on_client": {
+          "score": 2,
+          "reasoning": "Approximately 60% of the article focuses on Coinbase and their spokesperson's views",
+          "percentage": 60
+        },
+        "brand_in_closing": {
+          "score": 0,
+          "reasoning": "The article closes with government spokesperson quote, not focused on Coinbase"
+        },
+        "total_brand_mentions": {
+          "score": 1,
+          "reasoning": "Coinbase is mentioned 6 times throughout the article",
+          "mention_count": 6
+        }
+      },
+      "tier_4_credibility": {
+        "spokesperson_named": {
+          "score": 2.5,
+          "reasoning": "Lucas Matheson is clearly named as the spokesperson",
+          "spokesperson": "Lucas Matheson"
+        },
+        "framed_as_expert": {
+          "score": 2,
+          "reasoning": "Matheson is positioned as an industry expert whose views on policy and technology carry weight"
+        },
+        "framed_as_innovator": {
+          "score": 1,
+          "reasoning": "Coinbase is described as advocating for innovation and digital transformation"
+        },
+        "spokesperson_title": {
+          "score": 1.5,
+          "reasoning": "Lucas Matheson is identified as CEO of Coinbase Canada",
+          "title": "CEO of Coinbase Canada"
+        },
+        "positive_trend_association": {
+          "score": 1,
+          "reasoning": "Associated with digital sovereignty, innovation, and Canada's leadership potential"
+        },
+        "problem_association": {
+          "score": 0,
+          "reasoning": "No negative associations or problems linked to Coinbase"
+        }
+      },
+      "tier_5_competitive": {
+        "positioned_as_leader": {
+          "score": 2,
+          "reasoning": "Coinbase is described as 'a leading crypto exchange' with significant assets under management"
+        },
+        "mentioned_before_competitors": {
+          "score": 1.5,
+          "reasoning": "Coinbase is the primary focus from the start, no competitors mentioned"
+        },
+        "share_of_voice": {
+          "score": 1.5,
+          "reasoning": "Coinbase has 100% share of voice among crypto companies",
+          "client_share": 100
+        },
+        "competitors_mentioned": {
+          "score": 0,
+          "reasoning": "No competitors (Kraken, Binance, WonderFi) are mentioned in the article"
+        },
+        "more_quotes_than_competitors": {
+          "score": 1.5,
+          "reasoning": "Coinbase has multiple quotes while competitors have none"
+        },
+        "number_competitors_mentioned": {
+          "score": 0,
+          "reasoning": "Zero competitors mentioned",
+          "competitor_count": 0,
+          "competitors_found": []
+        },
+        "competitor_in_headline": {
+          "score": 0,
+          "reasoning": "No competitors appear in the headline"
+        }
+      },
+      "tier_6_audience_fit": {
+        "outlet_industry_relevance": {
+          "score": 3.5,
+          "reasoning": "BetaKit covers Canadian tech/fintech extensively, making this highly relevant to their audience"
+        },
+        "outlet_audience_relevance": {
+          "score": 3,
+          "reasoning": "BetaKit's audience of Canadian tech professionals and entrepreneurs would be very interested in crypto regulation and policy"
+        }
+      },
+      "tier_7_supporting": {
+        "cta_or_product_mention": {
+          "score": 0,
+          "reasoning": "No specific call-to-action or product promotion included"
+        },
+        "article_length": {
+          "score": 0.5,
+          "reasoning": "Substantial article length providing comprehensive coverage",
+          "word_count": 800
+        },
+        "brand_only_in_headline": {
+          "score": 0,
+          "reasoning": "Brand is not in the headline at all"
+        },
+        "exclusive_story": {
+          "score": 0.5,
+          "reasoning": "Appears to include exclusive interview content with Matheson"
+        },
+        "journalist_covered_before": {
+          "score": 0,
+          "reasoning": "No indication this journalist has covered Coinbase previously"
+        }
+      },
+      "bonus": {
+        "tier_1_outlet_bonus": {
+          "score": 3,
+          "reasoning": "Award 3 pts if outlet is Tier 1, otherwise 0"
+        },
+        "journalist_beat_alignment": {
+          "score": 0.5,
+          "reasoning": "Madison McLauchlan appears to cover tech/crypto topics, aligning with Coinbase's sector"
+        },
+        "open_access": {
+          "score": 0.5,
+          "reasoning": "BetaKit articles are typically open access"
+        },
+        "appears_in_google_news": {
+          "score": 0.5,
+          "reasoning": "BetaKit content typically appears in Google News"
+        },
+        "ranks_for_keywords": {
+          "score": 1,
+          "reasoning": "Likely to rank for 'Canada stablecoin', 'Coinbase Canada', 'blockchain regulation' keywords"
+        },
+        "syndicated": {
+          "score": 0,
+          "reasoning": "No indication this content was syndicated"
+        }
+      },
+      "summary": {
+        "overall_assessment": "This is strong coverage for Coinbase in a Tier 1 Canadian tech publication, positioning them as a policy leader advocating for beneficial regulation. The article gives significant voice to their spokesperson and frames their advocacy efforts positively without any competitor presence.",
+        "strengths": [
+          "Tier 1 outlet coverage",
+          "Multiple direct quotes from CEO",
+          "Positive framing as industry leader",
+          "No competitor mentions",
+          "Strong messaging on digital sovereignty",
+          "Exclusive interview content"
+        ],
+        "weaknesses": [
+          "Brand not in headline",
+          "Missing some key economic statistics",
+          "Limited data points cited",
+          "Could have emphasized bipartisan nature more"
+        ],
+        "recommendations": [
+          "Pitch similar policy stories to other Tier 1 outlets",
+          "Provide more compelling economic data in future briefings",
+          "Consider op-ed opportunities on digital sovereignty theme",
+          "Build relationship with this journalist for future coverage"
+        ]
+      }
+    },
+    "summary": {
+      "overall_assessment": "This is strong coverage for Coinbase in a Tier 1 Canadian tech publication, positioning them as a policy leader advocating for beneficial regulation. The article gives significant voice to their spokesperson and frames their advocacy efforts positively without any competitor presence.",
+      "strengths": [
+        "Tier 1 outlet coverage",
+        "Multiple direct quotes from CEO",
+        "Positive framing as industry leader",
+        "No competitor mentions",
+        "Strong messaging on digital sovereignty",
+        "Exclusive interview content"
+      ],
+      "weaknesses": [
+        "Brand not in headline",
+        "Missing some key economic statistics",
+        "Limited data points cited",
+        "Could have emphasized bipartisan nature more"
+      ],
+      "recommendations": [
+        "Pitch similar policy stories to other Tier 1 outlets",
+        "Provide more compelling economic data in future briefings",
+        "Consider op-ed opportunities on digital sovereignty theme",
+        "Build relationship with this journalist for future coverage"
+      ]
+    },
+    "batch_id": "20260119102812912983",
+    "batch_name": "Coinbase Jan 2026",
+    "id": "20260119102812925364",
+    "analyzed_at": "2026-01-19T10:28:12.925390"
+  },
+  {
+    "headline": "The next e-transfer? Ottawa moves to modernize payments",
+    "outlet": "Canadian Affairs",
+    "author": "",
+    "client": "Coinbase",
+    "url": "https://www.canadianaffairs.news/2025/12/03/stablecoins-regulated-to-modernize-payments/",
+    "total_score": 69.0,
+    "tier_scores": {
+      "tier_1_foundational": {
+        "name": "Tier 1 - Foundational",
+        "score": 20,
+        "max": 36
+      },
+      "tier_2_messaging": {
+        "name": "Tier 2 - Messaging & Voice",
+        "score": 25,
+        "max": 30
+      },
+      "tier_3_prominence": {
+        "name": "Tier 3 - Prominence & Position",
+        "score": 2.5,
+        "max": 10
+      },
+      "tier_4_credibility": {
+        "name": "Tier 4 - Credibility & Spokesperson",
+        "score": 8.0,
+        "max": 10
+      },
+      "tier_5_competitive": {
+        "name": "Tier 5 - Competitive Dynamics",
+        "score": 5.5,
+        "max": 9
+      },
+      "tier_6_audience_fit": {
+        "name": "Tier 6 - Outlet & Audience Fit",
+        "score": 6,
+        "max": 6.5
+      },
+      "tier_7_supporting": {
+        "name": "Tier 7 - Supporting Details",
+        "score": 0.5,
+        "max": 2.5
+      },
+      "bonus": {
+        "name": "Bonus Points",
+        "score": 1.5,
+        "max": 8
+      }
+    },
+    "detailed_scores": {
+      "tier_1_foundational": {
+        "outlet_tier": {
+          "score": 6,
+          "reasoning": "Article is from Canadian Affairs, which is listed as Tier 3 outlet, earning 6 points"
+        },
+        "overall_sentiment": {
+          "score": 6,
+          "reasoning": "Very positive coverage - frames stablecoins and regulation favorably, presents Coinbase positively as industry leader supporting good policy"
+        },
+        "brand_in_headline": {
+          "score": 0,
+          "reasoning": "Coinbase is not mentioned in the headline 'The next e-transfer? Ottawa moves to modernize payments'"
+        },
+        "article_exclusively_about_client": {
+          "score": 1,
+          "reasoning": "Article is primarily about stablecoin regulation in Canada generally, with Coinbase as one voice among several sources"
+        },
+        "article_type": {
+          "score": 4,
+          "reasoning": "This is a news feature/analysis piece about policy developments, which is the highest-value article type"
+        },
+        "tone_toward_client": {
+          "score": 3,
+          "reasoning": "Tone is respectful and positions Coinbase as a credible industry voice supporting good policy"
+        }
+      },
+      "tier_2_messaging": {
+        "key_messages_high": {
+          "score": 9,
+          "reasoning": "All 4 high-priority messages are well covered: comprehensive legislative framework, Canada leadership opportunity, risk of falling behind G7, and bipartisan/national priority",
+          "messages_found": [
+            "First comprehensive legislative framework for stablecoins",
+            "Canada opportunity to lead on financial innovation",
+            "Risk of falling behind other G7 nations",
+            "Potential for bipartisan support"
+          ]
+        },
+        "key_messages_medium": {
+          "score": 3,
+          "reasoning": "Two medium messages clearly present: other jurisdictions (EU, US, Japan, UK) already have frameworks and Canada is catching up, plus potential to make life more affordable for Canadians",
+          "messages_found": [
+            "EU, US, Japan, UK already have stablecoin regulations",
+            "Could make transactions easier and cheaper for Canadians"
+          ]
+        },
+        "key_messages_low": {
+          "score": 0,
+          "reasoning": "None of the low-priority messages (transaction fee comparisons, survey data, market size projections) are mentioned",
+          "messages_found": []
+        },
+        "direct_quote_included": {
+          "score": 6,
+          "reasoning": "Article includes direct quotes from Coinbase Canada CEO Lucas Matheson, which is ideal for credibility"
+        },
+        "number_of_quotes": {
+          "score": 2,
+          "reasoning": "Two direct quotes from Coinbase spokesperson are included",
+          "quote_count": 2
+        },
+        "preferred_framing_used": {
+          "score": 5,
+          "reasoning": "Uses Coinbase's preferred framing around Canada needing to lead, avoid fragmented oversight, and compete globally"
+        },
+        "data_stat_cited": {
+          "score": 0,
+          "reasoning": "No specific statistics from Coinbase's key messages are cited in the article"
+        }
+      },
+      "tier_3_prominence": {
+        "paragraph_first_mention": {
+          "score": 0.5,
+          "reasoning": "Coinbase is first mentioned in paragraph 18, which is quite late in the article",
+          "paragraph_number": 18
+        },
+        "brand_in_opening": {
+          "score": 0,
+          "reasoning": "Coinbase is not mentioned in the opening paragraphs of the article"
+        },
+        "percentage_focused_on_client": {
+          "score": 1,
+          "reasoning": "Approximately 15% of the article focuses specifically on Coinbase and its perspective",
+          "percentage": 15
+        },
+        "brand_in_closing": {
+          "score": 0,
+          "reasoning": "The article closes with quotes from the economist Mike Moffatt, not Coinbase"
+        },
+        "total_brand_mentions": {
+          "score": 1,
+          "reasoning": "Coinbase is mentioned 3 times throughout the article",
+          "mention_count": 3
+        }
+      },
+      "tier_4_credibility": {
+        "spokesperson_named": {
+          "score": 2.5,
+          "reasoning": "Lucas Matheson, Coinbase Canada's CEO, is specifically named as the spokesperson",
+          "spokesperson": "Lucas Matheson"
+        },
+        "framed_as_expert": {
+          "score": 2,
+          "reasoning": "Coinbase is positioned as an industry expert whose opinion matters on stablecoin regulation"
+        },
+        "framed_as_innovator": {
+          "score": 1,
+          "reasoning": "Implicitly framed as part of the innovative fintech industry that needs clear rules to compete"
+        },
+        "spokesperson_title": {
+          "score": 1.5,
+          "reasoning": "Full title 'Coinbase Canada's CEO' is provided, establishing credibility",
+          "title": "Coinbase Canada's CEO"
+        },
+        "positive_trend_association": {
+          "score": 1,
+          "reasoning": "Associated with positive trends of financial innovation and modernization of payments"
+        },
+        "problem_association": {
+          "score": 0,
+          "reasoning": "No negative associations or problems linked to Coinbase in the article"
+        }
+      },
+      "tier_5_competitive": {
+        "positioned_as_leader": {
+          "score": 1,
+          "reasoning": "Coinbase is positioned as a leading voice in the industry, but not explicitly called a market leader"
+        },
+        "mentioned_before_competitors": {
+          "score": 1.5,
+          "reasoning": "Coinbase is mentioned before any other crypto companies that could be considered competitors"
+        },
+        "share_of_voice": {
+          "score": 1.5,
+          "reasoning": "Coinbase has 100% share of voice among crypto platforms - no competitors quoted",
+          "client_share": 100
+        },
+        "competitors_mentioned": {
+          "score": 0,
+          "reasoning": "No direct competitors (Kraken, Binance, WonderFi) are mentioned in the article"
+        },
+        "more_quotes_than_competitors": {
+          "score": 1.5,
+          "reasoning": "Coinbase has quotes while no competitors are quoted or even mentioned"
+        },
+        "number_competitors_mentioned": {
+          "score": 0,
+          "reasoning": "None of the specified competitors are mentioned",
+          "competitor_count": 0,
+          "competitors_found": []
+        },
+        "competitor_in_headline": {
+          "score": 0,
+          "reasoning": "No competitors appear in the headline"
+        }
+      },
+      "tier_6_audience_fit": {
+        "outlet_industry_relevance": {
+          "score": 3,
+          "reasoning": "Canadian Affairs covers policy and regulatory matters, making it highly relevant for fintech/crypto regulatory news"
+        },
+        "outlet_audience_relevance": {
+          "score": 3,
+          "reasoning": "Policy makers, government officials, and industry stakeholders who read Canadian Affairs are key target audience for Coinbase's regulatory messaging"
+        }
+      },
+      "tier_7_supporting": {
+        "cta_or_product_mention": {
+          "score": 0,
+          "reasoning": "No specific call-to-action or product mentions for Coinbase"
+        },
+        "article_length": {
+          "score": 0.5,
+          "reasoning": "Substantial article length (approximately 800+ words) provides good context and depth",
+          "word_count": 850
+        },
+        "brand_only_in_headline": {
+          "score": 0,
+          "reasoning": "Brand is not in the headline at all"
+        },
+        "exclusive_story": {
+          "score": 0,
+          "reasoning": "Not positioned as an exclusive story or interview"
+        },
+        "journalist_covered_before": {
+          "score": 0,
+          "reasoning": "No indication this journalist has covered Coinbase previously"
+        }
+      },
+      "bonus": {
+        "tier_1_outlet_bonus": {
+          "score": 0,
+          "reasoning": "Canadian Affairs is Tier 3, not Tier 1, so no bonus points awarded"
+        },
+        "journalist_beat_alignment": {
+          "score": 0.5,
+          "reasoning": "Sam Forster covers policy and economic issues, which aligns well with crypto regulatory coverage"
+        },
+        "open_access": {
+          "score": 0.5,
+          "reasoning": "Appears to be open access content based on the full article being available"
+        },
+        "appears_in_google_news": {
+          "score": 0,
+          "reasoning": "No indication the article appears in Google News"
+        },
+        "ranks_for_keywords": {
+          "score": 0.5,
+          "reasoning": "Likely to rank for relevant keywords like 'Canada stablecoin regulation' and 'cryptocurrency policy'"
+        },
+        "syndicated": {
+          "score": 0,
+          "reasoning": "No indication of syndication to other outlets"
+        }
+      },
+      "summary": {
+        "overall_assessment": "This is strong coverage that positions Coinbase as a credible industry voice supporting sensible stablecoin regulation in Canada. While Coinbase appears later in the article, the CEO is quoted substantively and the framing aligns well with key messages about Canada's need to lead on financial innovation.",
+        "strengths": [
+          "All high-priority messages covered effectively",
+          "Direct CEO quotes included",
+          "Positioned as industry expert",
+          "No competitor mentions",
+          "Policy-focused outlet reaches key decision-makers",
+          "Positive framing of stablecoins and regulation"
+        ],
+        "weaknesses": [
+          "Late first mention in article",
+          "No specific data/statistics cited",
+          "Limited focus specifically on Coinbase",
+          "Not mentioned in headline",
+          "No call-to-action or product mentions"
+        ],
+        "recommendations": [
+          "Seek earlier mention in similar articles",
+          "Provide compelling statistics for journalists to use",
+          "Explore opportunities for exclusive interviews",
+          "Develop stronger product tie-ins to policy discussions"
+        ]
+      }
+    },
+    "summary": {
+      "overall_assessment": "This is strong coverage that positions Coinbase as a credible industry voice supporting sensible stablecoin regulation in Canada. While Coinbase appears later in the article, the CEO is quoted substantively and the framing aligns well with key messages about Canada's need to lead on financial innovation.",
+      "strengths": [
+        "All high-priority messages covered effectively",
+        "Direct CEO quotes included",
+        "Positioned as industry expert",
+        "No competitor mentions",
+        "Policy-focused outlet reaches key decision-makers",
+        "Positive framing of stablecoins and regulation"
+      ],
+      "weaknesses": [
+        "Late first mention in article",
+        "No specific data/statistics cited",
+        "Limited focus specifically on Coinbase",
+        "Not mentioned in headline",
+        "No call-to-action or product mentions"
+      ],
+      "recommendations": [
+        "Seek earlier mention in similar articles",
+        "Provide compelling statistics for journalists to use",
+        "Explore opportunities for exclusive interviews",
+        "Develop stronger product tie-ins to policy discussions"
+      ]
+    },
+    "batch_id": "20260119102812912983",
+    "batch_name": "Coinbase Jan 2026",
+    "id": "20260119102812920606",
+    "analyzed_at": "2026-01-19T10:28:12.920634"
+  },
+  {
+    "headline": "Opinion | \n                             \n            \n            Canada\u2019s stablecoin rules are a breakthrough. Now, we need to finish the job",
+    "outlet": "Toronto Star",
+    "author": "",
+    "client": "Coinbase",
+    "url": "https://www.thestar.com/business/opinion/canada-s-stablecoin-rules-are-a-breakthrough-now-we-need-to-finish-the-job/article_1231e878-e9fc-4eca-9cf7-6ab89f929d78.html",
+    "total_score": 78.0,
+    "tier_scores": {
+      "tier_1_foundational": {
+        "name": "Tier 1 - Foundational",
+        "score": 26,
+        "max": 36
+      },
+      "tier_2_messaging": {
+        "name": "Tier 2 - Messaging & Voice",
+        "score": 18,
+        "max": 30
+      },
+      "tier_3_prominence": {
+        "name": "Tier 3 - Prominence & Position",
+        "score": 9,
+        "max": 10
+      },
+      "tier_4_credibility": {
+        "name": "Tier 4 - Credibility & Spokesperson",
+        "score": 8.0,
+        "max": 10
+      },
+      "tier_5_competitive": {
+        "name": "Tier 5 - Competitive Dynamics",
+        "score": 5.0,
+        "max": 9
+      },
+      "tier_6_audience_fit": {
+        "name": "Tier 6 - Outlet & Audience Fit",
+        "score": 6,
+        "max": 6.5
+      },
+      "tier_7_supporting": {
+        "name": "Tier 7 - Supporting Details",
+        "score": 1.0,
+        "max": 2.5
+      },
+      "bonus": {
+        "name": "Bonus Points",
+        "score": 5.0,
+        "max": 8
+      }
+    },
+    "detailed_scores": {
+      "tier_1_foundational": {
+        "outlet_tier": {
+          "score": 10,
+          "reasoning": "Toronto Star is listed as Tier 1 outlet, which typically receives 15pts, but given this appears to be an opinion piece placement, awarding 10pts as it's still a major national publication"
+        },
+        "overall_sentiment": {
+          "score": 7,
+          "reasoning": "Extremely positive sentiment throughout - praises Canada's framework as a 'breakthrough', calls it the 'most significant moment for digital assets', and positions the development as beneficial for all Canadians"
+        },
+        "brand_in_headline": {
+          "score": 0,
+          "reasoning": "Coinbase is not mentioned in the headline - the headline focuses on Canada's stablecoin rules without brand attribution"
+        },
+        "article_exclusively_about_client": {
+          "score": 2,
+          "reasoning": "While the article is about stablecoin regulation (Coinbase's interest area), it's primarily focused on Canada's policy framework rather than being exclusively about Coinbase as a company"
+        },
+        "article_type": {
+          "score": 4,
+          "reasoning": "This is an opinion piece bylined to Tom Duff Gordon from Coinbase, which provides maximum control over messaging and positioning"
+        },
+        "tone_toward_client": {
+          "score": 3,
+          "reasoning": "Tone is implicitly positive toward Coinbase as the author represents the company and positions it as knowledgeable about beneficial policy development"
+        }
+      },
+      "tier_2_messaging": {
+        "key_messages_high": {
+          "score": 9,
+          "reasoning": "All 4 high-priority messages are effectively covered: comprehensive legislative framework, Canada leading on innovation, risk of falling behind G7 nations, and bipartisan national priority potential",
+          "messages_found": [
+            "First comprehensive legislative framework for stablecoins",
+            "Canada leading on financial innovation",
+            "Risk of falling behind other G7 nations",
+            "Potential for bipartisan support"
+          ]
+        },
+        "key_messages_medium": {
+          "score": 3,
+          "reasoning": "Article mentions that other nations (EU, U.S., Japan, U.K.) have implemented regulations and Canada is catching up, and discusses benefits for small businesses and affordability",
+          "messages_found": [
+            "Other G7 nations ahead on regulation",
+            "Benefits for making life more affordable"
+          ]
+        },
+        "key_messages_low": {
+          "score": 0,
+          "reasoning": "None of the specific low-priority statistics or data points (transaction fees, survey results, market size projections) are mentioned in the article",
+          "messages_found": []
+        },
+        "direct_quote_included": {
+          "score": 0,
+          "reasoning": "No direct quotes are included in the article - it's written entirely as authored content by the Coinbase representative"
+        },
+        "number_of_quotes": {
+          "score": 0,
+          "reasoning": "Zero direct quotes present in the article",
+          "quote_count": 0
+        },
+        "preferred_framing_used": {
+          "score": 5,
+          "reasoning": "Excellent use of preferred framing - positions stablecoins as beneficial innovation, emphasizes Canadian leadership opportunity, frames regulation positively, and focuses on consumer benefits"
+        },
+        "data_stat_cited": {
+          "score": 1,
+          "reasoning": "Limited specific data - mentions 3% interest rate potential for Canadians but lacks the compelling statistics from the client's priority messaging"
+        }
+      },
+      "tier_3_prominence": {
+        "paragraph_first_mention": {
+          "score": 3,
+          "reasoning": "Coinbase is mentioned in the author byline and credentials at the very beginning, giving maximum prominence",
+          "paragraph_number": 1
+        },
+        "brand_in_opening": {
+          "score": 3,
+          "reasoning": "Coinbase is prominently identified in the author credentials at the opening of the article"
+        },
+        "percentage_focused_on_client": {
+          "score": 1,
+          "reasoning": "Approximately 15-20% directly focused on Coinbase - most content focuses on the policy framework with implicit benefit to the company",
+          "percentage": 18
+        },
+        "brand_in_closing": {
+          "score": 1,
+          "reasoning": "Article closes with Tom Duff Gordon's credentials including his role at Coinbase"
+        },
+        "total_brand_mentions": {
+          "score": 1,
+          "reasoning": "Coinbase is mentioned 4 times throughout the piece - in bylines and author credentials",
+          "mention_count": 4
+        }
+      },
+      "tier_4_credibility": {
+        "spokesperson_named": {
+          "score": 2.5,
+          "reasoning": "Tom Duff Gordon is clearly identified as the spokesperson and author",
+          "spokesperson": "Tom Duff Gordon"
+        },
+        "framed_as_expert": {
+          "score": 2,
+          "reasoning": "Strongly framed as expert - his title 'vice president of international policy' and the opinion piece format positions him as a policy authority"
+        },
+        "framed_as_innovator": {
+          "score": 1,
+          "reasoning": "Implicitly framed as innovator through discussion of digital assets and forward-looking policy recommendations"
+        },
+        "spokesperson_title": {
+          "score": 1.5,
+          "reasoning": "Full senior executive title provided: 'vice president of international policy at Coinbase'",
+          "title": "Vice President of International Policy"
+        },
+        "positive_trend_association": {
+          "score": 1,
+          "reasoning": "Strongly associated with positive trends - digital innovation, financial modernization, and beneficial policy development"
+        },
+        "problem_association": {
+          "score": 0,
+          "reasoning": "No negative associations or problems linked to Coinbase in the coverage"
+        }
+      },
+      "tier_5_competitive": {
+        "positioned_as_leader": {
+          "score": 2,
+          "reasoning": "Positioned as thought leader through the opinion piece format and policy expertise demonstration"
+        },
+        "mentioned_before_competitors": {
+          "score": 1.5,
+          "reasoning": "Coinbase is the only company mentioned - no competitors referenced at all"
+        },
+        "share_of_voice": {
+          "score": 1.5,
+          "reasoning": "100% share of voice as no competitors are mentioned",
+          "client_share": 100
+        },
+        "competitors_mentioned": {
+          "score": 0,
+          "reasoning": "No competitors mentioned in the article"
+        },
+        "more_quotes_than_competitors": {
+          "score": 0,
+          "reasoning": "No quotes from anyone, so no competitive advantage in quote volume"
+        },
+        "number_competitors_mentioned": {
+          "score": 0,
+          "reasoning": "Zero competitors mentioned - no penalty applied",
+          "competitor_count": 0,
+          "competitors_found": []
+        },
+        "competitor_in_headline": {
+          "score": 0,
+          "reasoning": "No competitors mentioned in headline"
+        }
+      },
+      "tier_6_audience_fit": {
+        "outlet_industry_relevance": {
+          "score": 3,
+          "reasoning": "Toronto Star covers financial/business topics and this policy discussion is highly relevant to their business coverage"
+        },
+        "outlet_audience_relevance": {
+          "score": 3,
+          "reasoning": "Canadian national audience is perfectly aligned for discussion of Canadian stablecoin policy and financial system modernization"
+        }
+      },
+      "tier_7_supporting": {
+        "cta_or_product_mention": {
+          "score": 0,
+          "reasoning": "No specific call-to-action or product mentions included"
+        },
+        "article_length": {
+          "score": 0.5,
+          "reasoning": "Substantial length opinion piece allowing comprehensive coverage of key messages",
+          "word_count": 800
+        },
+        "brand_only_in_headline": {
+          "score": 0,
+          "reasoning": "Brand is not in the headline at all"
+        },
+        "exclusive_story": {
+          "score": 0.5,
+          "reasoning": "Opinion piece represents exclusive content from Coinbase's perspective"
+        },
+        "journalist_covered_before": {
+          "score": 0,
+          "reasoning": "Cannot determine if this author has covered Coinbase previously"
+        }
+      },
+      "bonus": {
+        "tier_1_outlet_bonus": {
+          "score": 3,
+          "reasoning": "Toronto Star is designated as Tier 1 outlet, award full 3 point bonus"
+        },
+        "journalist_beat_alignment": {
+          "score": 0.5,
+          "reasoning": "Author specializes in international policy relevant to financial services and crypto regulation"
+        },
+        "open_access": {
+          "score": 0,
+          "reasoning": "No indication this is freely accessible without subscription"
+        },
+        "appears_in_google_news": {
+          "score": 0.5,
+          "reasoning": "Major outlet like Toronto Star typically appears in Google News aggregation"
+        },
+        "ranks_for_keywords": {
+          "score": 1,
+          "reasoning": "Likely to rank for 'Canada stablecoin regulation' and related policy keywords"
+        },
+        "syndicated": {
+          "score": 0,
+          "reasoning": "No indication of syndication to other outlets"
+        }
+      },
+      "summary": {
+        "overall_assessment": "This is exceptionally strong coverage that delivers Coinbase's key messages through an authoritative opinion piece format in a top-tier Canadian publication. The piece effectively positions Canada's stablecoin framework as a breakthrough while establishing Coinbase as a policy thought leader.",
+        "strengths": [
+          "Complete message control through opinion piece format",
+          "All high-priority key messages effectively incorporated",
+          "Tier 1 outlet placement with national Canadian audience",
+          "Strong credibility positioning for Coinbase spokesperson",
+          "100% share of voice with no competitor mentions",
+          "Positive framing of regulation and innovation"
+        ],
+        "weaknesses": [
+          "No brand mention in headline limits discoverability",
+          "Missing compelling statistics and data points from client messaging",
+          "No direct quotes to create quotable moments",
+          "Limited specific mention of Coinbase products or services"
+        ],
+        "recommendations": [
+          "Include more specific statistics about Canadian transaction costs and market opportunity",
+          "Seek to incorporate brand name in headlines when possible",
+          "Leverage this thought leadership positioning for additional media opportunities",
+          "Consider following up with data-driven stories that include the compelling statistics from messaging framework"
+        ]
+      }
+    },
+    "summary": {
+      "overall_assessment": "This is exceptionally strong coverage that delivers Coinbase's key messages through an authoritative opinion piece format in a top-tier Canadian publication. The piece effectively positions Canada's stablecoin framework as a breakthrough while establishing Coinbase as a policy thought leader.",
+      "strengths": [
+        "Complete message control through opinion piece format",
+        "All high-priority key messages effectively incorporated",
+        "Tier 1 outlet placement with national Canadian audience",
+        "Strong credibility positioning for Coinbase spokesperson",
+        "100% share of voice with no competitor mentions",
+        "Positive framing of regulation and innovation"
+      ],
+      "weaknesses": [
+        "No brand mention in headline limits discoverability",
+        "Missing compelling statistics and data points from client messaging",
+        "No direct quotes to create quotable moments",
+        "Limited specific mention of Coinbase products or services"
+      ],
+      "recommendations": [
+        "Include more specific statistics about Canadian transaction costs and market opportunity",
+        "Seek to incorporate brand name in headlines when possible",
+        "Leverage this thought leadership positioning for additional media opportunities",
+        "Consider following up with data-driven stories that include the compelling statistics from messaging framework"
+      ]
+    },
+    "batch_id": "20260119102812912983",
+    "batch_name": "Coinbase Jan 2026",
+    "id": "20260119102812915427",
+    "analyzed_at": "2026-01-19T10:28:12.915442"
+  },
+  {
+    "headline": "Ottawa\u2019s new stablecoin framework a key step toward monetary sovereignty, advocates say",
+    "outlet": "theglobeandmail.com",
+    "author": "Mariya Postelnyak",
+    "client": "Coinbase",
+    "url": "https://www.theglobeandmail.com/investing/personal-finance/article-ottawa-stablecoin-regulation-framework-crypto/",
+    "total_score": 69.0,
+    "tier_scores": {
+      "tier_1_foundational": {
+        "name": "Tier 1 - Foundational",
+        "score": 23,
+        "max": 36
+      },
+      "tier_2_messaging": {
+        "name": "Tier 2 - Messaging & Voice",
+        "score": 19.5,
+        "max": 30
+      },
+      "tier_3_prominence": {
+        "name": "Tier 3 - Prominence & Position",
+        "score": 1.5,
+        "max": 10
+      },
+      "tier_4_credibility": {
+        "name": "Tier 4 - Credibility & Spokesperson",
+        "score": 8.0,
+        "max": 10
+      },
+      "tier_5_competitive": {
+        "name": "Tier 5 - Competitive Dynamics",
+        "score": 4.5,
+        "max": 9
+      },
+      "tier_6_audience_fit": {
+        "name": "Tier 6 - Outlet & Audience Fit",
+        "score": 6.5,
+        "max": 6.5
+      },
+      "tier_7_supporting": {
+        "name": "Tier 7 - Supporting Details",
+        "score": 0.5,
+        "max": 2.5
+      },
+      "bonus": {
+        "name": "Bonus Points",
+        "score": 5.5,
+        "max": 8
+      }
+    },
+    "detailed_scores": {
+      "tier_1_foundational": {
+        "outlet_tier": {
+          "score": 10,
+          "reasoning": "The Globe and Mail is listed as Tier 1 in the metadata, which corresponds to 15 points according to the guidelines. However, the scoring range for this factor is 0-10, so awarding maximum 10 points."
+        },
+        "overall_sentiment": {
+          "score": 6,
+          "reasoning": "The article presents stablecoin regulation very positively, describing it as 'critical for Canada to catch up' and 'a step in the right direction.' The framework is characterized as 'thoughtful' and 'constructive' with advocates praising the speed of implementation."
+        },
+        "brand_in_headline": {
+          "score": 0,
+          "reasoning": "Coinbase is not mentioned in the headline 'Ottawa's new stablecoin framework a key step toward monetary sovereignty, advocates say'"
+        },
+        "article_exclusively_about_client": {
+          "score": 0,
+          "reasoning": "The article is about Canada's stablecoin framework in general, not specifically about Coinbase. Coinbase appears as one voice among several industry experts."
+        },
+        "article_type": {
+          "score": 4,
+          "reasoning": "This is a news analysis piece covering regulatory developments in the stablecoin space, which is highly relevant to Coinbase's business and strategic interests."
+        },
+        "tone_toward_client": {
+          "score": 3,
+          "reasoning": "The tone toward Coinbase is neutral to positive. The CEO's quote is presented respectfully and his perspective is treated as expert commentary without any negative framing."
+        }
+      },
+      "tier_2_messaging": {
+        "key_messages_high": {
+          "score": 6,
+          "reasoning": "The article captures 2 of 4 high-priority messages: (1) Canada has opportunity to lead on financial innovation and catch up with modernizing payments, and (2) Without clear rules, Canada risks falling behind other nations - specifically mentioning the U.S. Genius Act spurring Canada's action.",
+          "messages_found": [
+            "Canada has an opportunity to lead again on financial innovation",
+            "Without clear rules, Canada risks falling behind other G7 nations"
+          ]
+        },
+        "key_messages_medium": {
+          "score": 1.5,
+          "reasoning": "The article captures 1 of 4 medium-priority messages: The EU, U.S., Japan, and the U.K. have already implemented stablecoin regulations and Canada is catching up, specifically referencing the U.S. Genius Act.",
+          "messages_found": [
+            "The EU, U.S., Japan, and the U.K. have already implemented or drafted stablecoin regulations\u2014Canada is catching up"
+          ]
+        },
+        "key_messages_low": {
+          "score": 0,
+          "reasoning": "None of the low-priority messages about transaction fees, Canadian attitudes toward financial system updates, market growth projections, or regulation importance are mentioned.",
+          "messages_found": []
+        },
+        "direct_quote_included": {
+          "score": 6,
+          "reasoning": "Lucas Matheson, Coinbase Canada CEO, is directly quoted: 'We don't need to invent new technology' and describing the framework as 'thoughtful, constructive and comparable to the Genius Act in the U.S.'"
+        },
+        "number_of_quotes": {
+          "score": 2,
+          "reasoning": "There are 2 distinct quotes from the Coinbase CEO in the article.",
+          "quote_count": 2
+        },
+        "preferred_framing_used": {
+          "score": 4,
+          "reasoning": "The article uses preferred framing around Canada's opportunity to lead, the importance of regulatory clarity, and modernizing the financial system. It frames regulation positively as enabling innovation rather than restricting it."
+        },
+        "data_stat_cited": {
+          "score": 0,
+          "reasoning": "None of the specific statistics from Coinbase's key messages (C$5 billion GDP contribution, remittance costs, transaction fees, survey data) are cited in the article."
+        }
+      },
+      "tier_3_prominence": {
+        "paragraph_first_mention": {
+          "score": 0.5,
+          "reasoning": "Coinbase is first mentioned in the second-to-last paragraph, which is very late in the article.",
+          "paragraph_number": 18
+        },
+        "brand_in_opening": {
+          "score": 0,
+          "reasoning": "Coinbase is not mentioned in the opening paragraphs of the article."
+        },
+        "percentage_focused_on_client": {
+          "score": 0,
+          "reasoning": "Less than 10% of the article focuses on Coinbase specifically - only about 2 sentences out of a substantial article.",
+          "percentage": 5
+        },
+        "brand_in_closing": {
+          "score": 1,
+          "reasoning": "Coinbase appears in the final substantive paragraphs of the article, giving it closing prominence."
+        },
+        "total_brand_mentions": {
+          "score": 0,
+          "reasoning": "Coinbase is mentioned only 2 times in the entire article, which is minimal.",
+          "mention_count": 2
+        }
+      },
+      "tier_4_credibility": {
+        "spokesperson_named": {
+          "score": 2.5,
+          "reasoning": "Lucas Matheson is clearly named as the spokesperson for Coinbase Canada.",
+          "spokesperson": "Lucas Matheson"
+        },
+        "framed_as_expert": {
+          "score": 2,
+          "reasoning": "Matheson's comments are presented as expert industry perspective on the regulatory framework, positioned alongside other industry experts and advocates."
+        },
+        "framed_as_innovator": {
+          "score": 1,
+          "reasoning": "There's some innovation framing through his comment about existing technology being sufficient, but it's relatively subtle."
+        },
+        "spokesperson_title": {
+          "score": 1.5,
+          "reasoning": "Lucas Matheson is identified with his full title as 'Coinbase Canada chief executive', which carries strong authority.",
+          "title": "Coinbase Canada chief executive"
+        },
+        "positive_trend_association": {
+          "score": 1,
+          "reasoning": "Coinbase is associated with the positive trend of regulatory modernization and Canada's move to catch up with global leaders."
+        },
+        "problem_association": {
+          "score": 0,
+          "reasoning": "No negative associations or problems are linked to Coinbase in the coverage."
+        }
+      },
+      "tier_5_competitive": {
+        "positioned_as_leader": {
+          "score": 0,
+          "reasoning": "Coinbase is not positioned as a market leader in this article; it appears as one industry voice among several."
+        },
+        "mentioned_before_competitors": {
+          "score": 1.5,
+          "reasoning": "No competitors are mentioned in the article, so this doesn't apply negatively to Coinbase.",
+          "client_share": 100
+        },
+        "share_of_voice": {
+          "score": 1.5,
+          "reasoning": "Coinbase has 100% share of voice among crypto exchanges since no competitors are mentioned.",
+          "client_share": 100
+        },
+        "competitors_mentioned": {
+          "score": 0,
+          "reasoning": "No competitors (Kraken, Binance, WonderFi) are mentioned in the article."
+        },
+        "more_quotes_than_competitors": {
+          "score": 1.5,
+          "reasoning": "Coinbase has 2 quotes while competitors have 0 quotes since they're not mentioned."
+        },
+        "number_competitors_mentioned": {
+          "score": 0,
+          "reasoning": "No competitors are mentioned in the article.",
+          "competitor_count": 0,
+          "competitors_found": []
+        },
+        "competitor_in_headline": {
+          "score": 0,
+          "reasoning": "No competitors appear in the headline."
+        }
+      },
+      "tier_6_audience_fit": {
+        "outlet_industry_relevance": {
+          "score": 3.5,
+          "reasoning": "The Globe and Mail has strong financial coverage and this regulatory story is highly relevant to the fintech/crypto industry that Coinbase operates in."
+        },
+        "outlet_audience_relevance": {
+          "score": 3,
+          "reasoning": "The Globe and Mail's business-focused readership includes investors, policymakers, and business leaders who are key audiences for Coinbase's regulatory messaging."
+        }
+      },
+      "tier_7_supporting": {
+        "cta_or_product_mention": {
+          "score": 0,
+          "reasoning": "No call-to-action or specific Coinbase products/services are mentioned."
+        },
+        "article_length": {
+          "score": 0.5,
+          "reasoning": "The article is substantial in length (approximately 800+ words), providing good depth and context.",
+          "word_count": 850
+        },
+        "brand_only_in_headline": {
+          "score": 0,
+          "reasoning": "Coinbase is not mentioned in the headline at all."
+        },
+        "exclusive_story": {
+          "score": 0,
+          "reasoning": "This appears to be general news coverage of the regulatory framework, not an exclusive story."
+        },
+        "journalist_covered_before": {
+          "score": 0,
+          "reasoning": "No indication this journalist has covered Coinbase previously."
+        }
+      },
+      "bonus": {
+        "tier_1_outlet_bonus": {
+          "score": 3,
+          "reasoning": "Award 3 pts if outlet is Tier 1, otherwise 0. The Globe and Mail is listed as Tier 1."
+        },
+        "journalist_beat_alignment": {
+          "score": 0.5,
+          "reasoning": "Mariya Postelnyak appears to cover financial/regulatory topics, which aligns well with Coinbase's needs."
+        },
+        "open_access": {
+          "score": 0,
+          "reasoning": "No indication the article is open access; The Globe and Mail typically has a paywall."
+        },
+        "appears_in_google_news": {
+          "score": 1,
+          "reasoning": "The Globe and Mail articles typically appear in Google News, especially regulatory/financial stories."
+        },
+        "ranks_for_keywords": {
+          "score": 1,
+          "reasoning": "Likely to rank for 'Canada stablecoin regulation', 'cryptocurrency regulation Canada' and related terms."
+        },
+        "syndicated": {
+          "score": 0,
+          "reasoning": "No indication of syndication to other outlets."
+        }
+      },
+      "summary": {
+        "overall_assessment": "This is solid regulatory coverage in a top-tier outlet that positions Coinbase as a credible industry voice, though the company plays a relatively small role in the broader story. The coverage effectively communicates key messages about Canada's regulatory opportunity while maintaining positive sentiment.",
+        "strengths": [
+          "Top-tier outlet (The Globe and Mail)",
+          "Positive tone toward regulation and industry",
+          "CEO quoted as expert voice",
+          "No competitor mentions",
+          "Strong audience alignment",
+          "Captures key high-priority messages about Canada's opportunity to lead"
+        ],
+        "weaknesses": [
+          "Late and minimal mention of Coinbase",
+          "No specific data/statistics cited",
+          "Missing several key messages",
+          "No product or service mentions",
+          "Not positioned as market leader"
+        ],
+        "recommendations": [
+          "Engage earlier in regulatory stories to gain more prominent placement",
+          "Provide compelling statistics and data points to journalists",
+          "Seek opportunities to be positioned as market leader rather than just industry voice",
+          "Develop stronger hooks around Canadian-specific benefits and opportunities"
+        ]
+      }
+    },
+    "summary": {
+      "overall_assessment": "This is solid regulatory coverage in a top-tier outlet that positions Coinbase as a credible industry voice, though the company plays a relatively small role in the broader story. The coverage effectively communicates key messages about Canada's regulatory opportunity while maintaining positive sentiment.",
+      "strengths": [
+        "Top-tier outlet (The Globe and Mail)",
+        "Positive tone toward regulation and industry",
+        "CEO quoted as expert voice",
+        "No competitor mentions",
+        "Strong audience alignment",
+        "Captures key high-priority messages about Canada's opportunity to lead"
+      ],
+      "weaknesses": [
+        "Late and minimal mention of Coinbase",
+        "No specific data/statistics cited",
+        "Missing several key messages",
+        "No product or service mentions",
+        "Not positioned as market leader"
+      ],
+      "recommendations": [
+        "Engage earlier in regulatory stories to gain more prominent placement",
+        "Provide compelling statistics and data points to journalists",
+        "Seek opportunities to be positioned as market leader rather than just industry voice",
+        "Develop stronger hooks around Canadian-specific benefits and opportunities"
+      ]
+    },
+    "id": "20260116100730497991",
+    "analyzed_at": "2026-01-16T10:07:30.498050"
+  },
+  {
+    "headline": "Crypto advocates want blockchain tech added to Canadian AI minister\u2019s portfolio",
+    "outlet": "betakit.com",
+    "author": "Madison McLauchlan",
+    "client": "Coinbase",
+    "url": "https://betakit.com/crypto-advocates-want-blockchain-tech-added-to-canadian-ai-ministers-portfolio/",
+    "total_score": 88.5,
+    "tier_scores": {
+      "tier_1_foundational": {
+        "name": "Tier 1 - Foundational",
+        "score": 26,
+        "max": 31
+      },
+      "tier_2_messaging": {
+        "name": "Tier 2 - Messaging & Voice",
+        "score": 27,
+        "max": 30
+      },
+      "tier_3_prominence": {
+        "name": "Tier 3 - Prominence & Position",
+        "score": 10,
+        "max": 11
+      },
+      "tier_4_credibility": {
+        "name": "Tier 4 - Credibility & Spokesperson",
+        "score": 9.0,
+        "max": 10
+      },
+      "tier_5_competitive": {
+        "name": "Tier 5 - Competitive Dynamics",
+        "score": 6.5,
+        "max": 9
+      },
+      "tier_6_audience_fit": {
+        "name": "Tier 6 - Outlet & Audience Fit",
+        "score": 6.5,
+        "max": 6.5
+      },
+      "tier_7_supporting": {
+        "name": "Tier 7 - Supporting Details",
+        "score": 1.0,
+        "max": 2.5
+      },
+      "bonus": {
+        "name": "Bonus Points",
+        "score": 2.5,
+        "max": 5
+      }
+    },
+    "detailed_scores": {
+      "tier_1_foundational": {
+        "outlet_tier": {
+          "score": 10,
+          "reasoning": "BetaKit is listed as Tier 1 outlet in the metadata, earning full points"
+        },
+        "overall_sentiment": {
+          "score": 6,
+          "reasoning": "Very positive coverage positioning Coinbase as an advocate for Canadian digital sovereignty and blockchain innovation"
+        },
+        "brand_in_headline": {
+          "score": 0,
+          "reasoning": "Coinbase is not mentioned in the headline, which focuses on 'crypto advocates' generally"
+        },
+        "article_exclusively_about_client": {
+          "score": 3,
+          "reasoning": "While other voices are included (Ruffolo, government), Coinbase and its Canadian CEO are the primary focus driving the narrative"
+        },
+        "article_type": {
+          "score": 4,
+          "reasoning": "This is a news article covering Coinbase's policy advocacy and industry positioning - ideal article type for the client"
+        },
+        "tone_toward_client": {
+          "score": 3,
+          "reasoning": "Tone is consistently positive, presenting Coinbase as a thought leader advocating for Canadian interests"
+        }
+      },
+      "tier_2_messaging": {
+        "key_messages_high": {
+          "score": 9,
+          "reasoning": "All four high-priority messages are covered: comprehensive legislative framework, Canada leading on innovation, risk of falling behind other nations, and bipartisan/national priority framing",
+          "messages_found": [
+            "First time Canada proposing comprehensive legislative framework",
+            "Canada opportunity to lead on financial innovation",
+            "Risk of falling behind other G7 nations",
+            "Stablecoin legislation as national priority"
+          ]
+        },
+        "key_messages_medium": {
+          "score": 3,
+          "reasoning": "Two medium-priority messages are covered: other nations already implementing regulations (EU, US mentioned), and benefits for affordability/small businesses",
+          "messages_found": [
+            "EU, U.S. have implemented stablecoin regulations",
+            "Well-regulated system could help affordability"
+          ]
+        },
+        "key_messages_low": {
+          "score": 0,
+          "reasoning": "None of the specific low-priority statistics (transaction fees, Canadian opinions, market growth) are mentioned",
+          "messages_found": []
+        },
+        "direct_quote_included": {
+          "score": 6,
+          "reasoning": "Multiple substantial direct quotes from Coinbase's Lucas Matheson throughout the article"
+        },
+        "number_of_quotes": {
+          "score": 3,
+          "reasoning": "More than 3 direct quotes from Matheson included in the article",
+          "quote_count": 5
+        },
+        "preferred_framing_used": {
+          "score": 5,
+          "reasoning": "Excellent framing around digital sovereignty, Canadian leadership, and positioning blockchain as foundational infrastructure"
+        },
+        "data_stat_cited": {
+          "score": 1,
+          "reasoning": "Limited data cited - mentions Coinbase's $500B USD assets under management and 99% of stablecoins pegged to USD"
+        }
+      },
+      "tier_3_prominence": {
+        "paragraph_first_mention": {
+          "score": 4,
+          "reasoning": "Coinbase is mentioned in the very first paragraph of the article",
+          "paragraph_number": 1
+        },
+        "brand_in_opening": {
+          "score": 3,
+          "reasoning": "Coinbase is prominently featured in the opening paragraph as the driving force of the story"
+        },
+        "percentage_focused_on_client": {
+          "score": 2,
+          "reasoning": "Approximately 70-80% of the article focuses on Coinbase's position and advocacy",
+          "percentage": 75
+        },
+        "brand_in_closing": {
+          "score": 0,
+          "reasoning": "The article closes with government response rather than returning to Coinbase"
+        },
+        "total_brand_mentions": {
+          "score": 1,
+          "reasoning": "Coinbase is mentioned 7+ times throughout the article",
+          "mention_count": 8
+        }
+      },
+      "tier_4_credibility": {
+        "spokesperson_named": {
+          "score": 2.5,
+          "reasoning": "Lucas Matheson is clearly named as the spokesperson",
+          "spokesperson": "Lucas Matheson"
+        },
+        "framed_as_expert": {
+          "score": 2,
+          "reasoning": "Matheson is positioned as an expert on blockchain technology and digital policy"
+        },
+        "framed_as_innovator": {
+          "score": 2,
+          "reasoning": "Coinbase is presented as an innovator advocating for progressive digital policies"
+        },
+        "spokesperson_title": {
+          "score": 1.5,
+          "reasoning": "Full title provided: CEO of Coinbase Canada",
+          "title": "CEO of Coinbase Canada"
+        },
+        "positive_trend_association": {
+          "score": 1,
+          "reasoning": "Strong association with positive trends like digital sovereignty and Canadian innovation leadership"
+        },
+        "problem_association": {
+          "score": 0,
+          "reasoning": "No negative associations or problems linked to Coinbase"
+        }
+      },
+      "tier_5_competitive": {
+        "positioned_as_leader": {
+          "score": 2,
+          "reasoning": "Coinbase is positioned as 'a leading crypto exchange' and the primary advocate driving policy discussions"
+        },
+        "mentioned_before_competitors": {
+          "score": 1.5,
+          "reasoning": "Coinbase is mentioned first and no direct competitors appear in the article"
+        },
+        "share_of_voice": {
+          "score": 1.5,
+          "reasoning": "Coinbase has 100% share of voice among crypto exchanges mentioned",
+          "client_share": 100
+        },
+        "competitors_mentioned": {
+          "score": 0,
+          "reasoning": "No direct competitors (Kraken, Binance, WonderFi) are mentioned in the article"
+        },
+        "more_quotes_than_competitors": {
+          "score": 1.5,
+          "reasoning": "Coinbase has multiple quotes while no competitors are quoted or even mentioned"
+        },
+        "number_competitors_mentioned": {
+          "score": 0,
+          "reasoning": "None of the specified competitors are mentioned",
+          "competitor_count": 0,
+          "competitors_found": []
+        },
+        "competitor_in_headline": {
+          "score": 0,
+          "reasoning": "No competitors mentioned in headline"
+        }
+      },
+      "tier_6_audience_fit": {
+        "outlet_industry_relevance": {
+          "score": 3.5,
+          "reasoning": "BetaKit covers fintech and innovation extensively, making it highly relevant for cryptocurrency/blockchain coverage"
+        },
+        "outlet_audience_relevance": {
+          "score": 3,
+          "reasoning": "BetaKit's audience of Canadian tech professionals and entrepreneurs is ideal for Coinbase's regulatory advocacy message"
+        }
+      },
+      "tier_7_supporting": {
+        "cta_or_product_mention": {
+          "score": 0,
+          "reasoning": "No specific call-to-action or product promotion included"
+        },
+        "article_length": {
+          "score": 0.5,
+          "reasoning": "Substantial article length providing comprehensive coverage",
+          "word_count": 850
+        },
+        "brand_only_in_headline": {
+          "score": 0,
+          "reasoning": "Brand is not in headline at all"
+        },
+        "exclusive_story": {
+          "score": 0.5,
+          "reasoning": "Appears to include exclusive interview content with Matheson"
+        },
+        "journalist_covered_before": {
+          "score": 0,
+          "reasoning": "No indication this journalist has covered Coinbase previously"
+        }
+      },
+      "bonus": {
+        "journalist_beat_alignment": {
+          "score": 0.5,
+          "reasoning": "Madison McLauchlan appears to cover fintech and digital innovation, aligning with the story"
+        },
+        "open_access": {
+          "score": 0.5,
+          "reasoning": "BetaKit typically provides open access to articles"
+        },
+        "appears_in_google_news": {
+          "score": 0.5,
+          "reasoning": "BetaKit articles typically appear in Google News results"
+        },
+        "ranks_for_keywords": {
+          "score": 1,
+          "reasoning": "Likely to rank well for 'Coinbase Canada', 'stablecoin regulation', and 'blockchain policy' keywords"
+        },
+        "syndicated": {
+          "score": 0,
+          "reasoning": "No evidence of syndication to other outlets"
+        }
+      },
+      "summary": {
+        "overall_assessment": "This is excellent coverage for Coinbase, positioning the company as a thought leader advocating for Canadian digital sovereignty and blockchain innovation. The article successfully conveys all high-priority messaging while providing substantial, positive coverage in a tier-1 tech publication.",
+        "strengths": [
+          "All high-priority messages covered",
+          "Multiple direct quotes from spokesperson",
+          "Positioned as industry leader",
+          "No competitor mentions",
+          "Strong framing around Canadian digital sovereignty",
+          "Tier 1 outlet placement"
+        ],
+        "weaknesses": [
+          "Brand not mentioned in headline",
+          "Limited statistical data included",
+          "No specific call-to-action",
+          "Article doesn't close with Coinbase"
+        ],
+        "recommendations": [
+          "Work with journalists to include brand name in headlines when possible",
+          "Provide more compelling statistics and data points",
+          "Develop stronger closing statements that bring focus back to Coinbase",
+          "Continue leveraging digital sovereignty messaging as it resonates well"
+        ]
+      }
+    },
+    "summary": {
+      "overall_assessment": "This is excellent coverage for Coinbase, positioning the company as a thought leader advocating for Canadian digital sovereignty and blockchain innovation. The article successfully conveys all high-priority messaging while providing substantial, positive coverage in a tier-1 tech publication.",
+      "strengths": [
+        "All high-priority messages covered",
+        "Multiple direct quotes from spokesperson",
+        "Positioned as industry leader",
+        "No competitor mentions",
+        "Strong framing around Canadian digital sovereignty",
+        "Tier 1 outlet placement"
+      ],
+      "weaknesses": [
+        "Brand not mentioned in headline",
+        "Limited statistical data included",
+        "No specific call-to-action",
+        "Article doesn't close with Coinbase"
+      ],
+      "recommendations": [
+        "Work with journalists to include brand name in headlines when possible",
+        "Provide more compelling statistics and data points",
+        "Develop stronger closing statements that bring focus back to Coinbase",
+        "Continue leveraging digital sovereignty messaging as it resonates well"
+      ]
+    },
+    "id": "20260115170659804647",
+    "analyzed_at": "2026-01-15T17:06:59.804728"
+  },
+  {
+    "headline": "Federal budget 2025: Plan for stablecoin rules to usher in Canada\u2019s \u2018digital dollar era,\u2019 advocates say",
+    "outlet": "theglobeandmail.com",
+    "author": "Mariya Postelnyak",
+    "client": "Coinbase",
+    "url": "https://www.theglobeandmail.com/business/article-federal-budget-2025-stablecoin-legislation/?intcmp=gift_subscribed",
+    "total_score": 62.0,
+    "tier_scores": {
+      "tier_1_foundational": {
+        "name": "Tier 1 - Foundational",
+        "score": 21,
+        "max": 31
+      },
+      "tier_2_messaging": {
+        "name": "Tier 2 - Messaging & Voice",
+        "score": 23,
+        "max": 26
+      },
+      "tier_3_prominence": {
+        "name": "Tier 3 - Prominence & Position",
+        "score": 2,
+        "max": 14
+      },
+      "tier_4_credibility": {
+        "name": "Tier 4 - Credibility & Spokesperson",
+        "score": 8.0,
+        "max": 10
+      },
+      "tier_5_competitive": {
+        "name": "Tier 5 - Competitive Dynamics",
+        "score": 0.5,
+        "max": 9
+      },
+      "tier_6_audience_fit": {
+        "name": "Tier 6 - Outlet & Audience Fit",
+        "score": 4,
+        "max": 7
+      },
+      "tier_7_supporting": {
+        "name": "Tier 7 - Supporting Details",
+        "score": 0.5,
+        "max": 3
+      },
+      "bonus": {
+        "name": "Bonus Points",
+        "score": 3.0,
+        "max": 5
+      }
+    },
+    "detailed_scores": {
+      "tier_1_foundational": {
+        "outlet_tier": {
+          "score": 7,
+          "reasoning": "The Globe and Mail is identified as Tier 1 outlet, earning maximum points"
+        },
+        "overall_sentiment": {
+          "score": 6,
+          "reasoning": "Very positive sentiment throughout - describes framework as 'milestone,' 'huge step,' and quotes CEO calling it 'huge milestone for our industry'"
+        },
+        "brand_in_headline": {
+          "score": 0,
+          "reasoning": "Coinbase is not mentioned in the headline"
+        },
+        "article_exclusively_about_client": {
+          "score": 1,
+          "reasoning": "Article covers broader stablecoin regulation topic with multiple companies mentioned, not exclusively about Coinbase"
+        },
+        "article_type": {
+          "score": 4,
+          "reasoning": "News article covering federal budget announcement - ideal article type for coverage"
+        },
+        "tone_toward_client": {
+          "score": 3,
+          "reasoning": "Highly positive tone - CEO quote positions Coinbase as celebrating and benefiting from the development"
+        }
+      },
+      "tier_2_messaging": {
+        "key_messages_high": {
+          "score": 9,
+          "reasoning": "All 4 high-priority messages covered: comprehensive legislative framework mentioned, Canada leading on innovation theme present, falling behind other nations explicitly stated, and bipartisan/national priority implied through budget inclusion",
+          "messages_found": [
+            "First comprehensive legislative framework",
+            "Canada leading on financial innovation",
+            "Risk of falling behind other nations",
+            "National priority through budget inclusion"
+          ]
+        },
+        "key_messages_medium": {
+          "score": 3,
+          "reasoning": "Two medium-priority messages found: mentions of other G7 nations having regulations (Canada catching up), and benefits for making life more affordable",
+          "messages_found": [
+            "Other G7 nations have implemented regulations",
+            "Well-regulated system could help make life more affordable"
+          ]
+        },
+        "key_messages_low": {
+          "score": 0,
+          "reasoning": "None of the specific low-priority statistics or data points were mentioned in the article",
+          "messages_found": []
+        },
+        "direct_quote_included": {
+          "score": 4,
+          "reasoning": "Multiple direct quotes from Coinbase CEO Lucas Matheson included"
+        },
+        "number_of_quotes": {
+          "score": 3,
+          "reasoning": "Two substantial quotes from Coinbase CEO: 'This is just a huge opportunity...' and 'The digital dollar era in Canada starts today...'",
+          "quote_count": 2
+        },
+        "preferred_framing_used": {
+          "score": 3,
+          "reasoning": "Strong use of preferred framing around innovation, opportunity, and Canada's competitive position"
+        },
+        "data_stat_cited": {
+          "score": 1,
+          "reasoning": "Limited data cited - mentions $10M over two years and $5M annually for administration, but no Coinbase-specific statistics"
+        }
+      },
+      "tier_3_prominence": {
+        "brand_in_subhead": {
+          "score": 0,
+          "reasoning": "No subheadlines contain Coinbase brand name"
+        },
+        "paragraph_first_mention": {
+          "score": 0,
+          "reasoning": "Coinbase first mentioned in paragraph 19 of the article, very late in the piece",
+          "paragraph_number": 19
+        },
+        "brand_in_opening": {
+          "score": 0,
+          "reasoning": "Coinbase is not mentioned in the opening paragraphs"
+        },
+        "percentage_focused_on_client": {
+          "score": 0,
+          "reasoning": "Approximately 10% of article focused on Coinbase specifically - most content covers broader regulatory landscape",
+          "percentage": 10
+        },
+        "brand_in_closing": {
+          "score": 1,
+          "reasoning": "Coinbase CEO quote appears in the final section of the article"
+        },
+        "total_brand_mentions": {
+          "score": 1,
+          "reasoning": "Coinbase mentioned 3 times in the article",
+          "mention_count": 3
+        }
+      },
+      "tier_4_credibility": {
+        "spokesperson_named": {
+          "score": 2.5,
+          "reasoning": "Lucas Matheson, Coinbase Canada CEO, is named and quoted",
+          "spokesperson": "Lucas Matheson"
+        },
+        "framed_as_expert": {
+          "score": 1,
+          "reasoning": "Positioned as industry voice commenting on significant regulatory development"
+        },
+        "framed_as_innovator": {
+          "score": 2,
+          "reasoning": "Strong innovation framing through 'digital dollar era' quote and positioning around opportunity"
+        },
+        "spokesperson_title": {
+          "score": 1.5,
+          "reasoning": "Full title provided: 'Coinbase Canada chief executive officer'",
+          "title": "Coinbase Canada chief executive officer"
+        },
+        "positive_trend_association": {
+          "score": 1,
+          "reasoning": "Strongly associated with positive trend of regulatory clarity and digital dollar advancement"
+        },
+        "problem_association": {
+          "score": 0,
+          "reasoning": "No negative associations or problems linked to Coinbase"
+        }
+      },
+      "tier_5_competitive": {
+        "positioned_as_leader": {
+          "score": 1,
+          "reasoning": "Positioned as key industry voice but not explicitly as market leader"
+        },
+        "mentioned_before_competitors": {
+          "score": 0,
+          "reasoning": "Shakepay mentioned much earlier in the article than Coinbase"
+        },
+        "share_of_voice": {
+          "score": 1,
+          "reasoning": "Coinbase has approximately 40% share of voice among crypto companies mentioned",
+          "client_share": 40
+        },
+        "competitors_mentioned": {
+          "score": -1.5,
+          "reasoning": "Multiple competitors mentioned in the article"
+        },
+        "more_quotes_than_competitors": {
+          "score": 1.5,
+          "reasoning": "Coinbase has 2 substantial quotes, more than other individual companies"
+        },
+        "number_competitors_mentioned": {
+          "score": -1.5,
+          "reasoning": "3 competitors mentioned: Shakepay, Tetra Digital Group, and Western Union",
+          "competitor_count": 3,
+          "competitors_found": [
+            "Shakepay",
+            "Tetra Digital Group",
+            "Western Union"
+          ]
+        },
+        "competitor_in_headline": {
+          "score": 0,
+          "reasoning": "No competitors mentioned in headline"
+        }
+      },
+      "tier_6_audience_fit": {
+        "outlet_industry_relevance": {
+          "score": 2,
+          "reasoning": "Globe and Mail business coverage is highly relevant for fintech/financial services audience"
+        },
+        "outlet_audience_relevance": {
+          "score": 2,
+          "reasoning": "Canadian business and policy audience perfectly aligned with regulatory announcement"
+        },
+        "monthly_reach": {
+          "score": 0,
+          "reasoning": "Outlet reach listed as 0 in metadata"
+        },
+        "social_following": {
+          "score": 0,
+          "reasoning": "No social following data provided"
+        }
+      },
+      "tier_7_supporting": {
+        "cta_or_product_mention": {
+          "score": 0,
+          "reasoning": "No call-to-action or specific product mentions"
+        },
+        "image_includes_client": {
+          "score": 0,
+          "reasoning": "No information provided about images"
+        },
+        "article_length": {
+          "score": 0.5,
+          "reasoning": "Substantial article length with comprehensive coverage",
+          "word_count": 900
+        },
+        "brand_only_in_headline": {
+          "score": 0,
+          "reasoning": "Brand is not in headline"
+        },
+        "exclusive_story": {
+          "score": 0,
+          "reasoning": "Not positioned as exclusive story"
+        },
+        "journalist_covered_before": {
+          "score": 0,
+          "reasoning": "No information provided about journalist's previous coverage"
+        }
+      },
+      "bonus": {
+        "journalist_beat_alignment": {
+          "score": 0.5,
+          "reasoning": "Financial/business journalist covering regulatory announcement aligns well"
+        },
+        "open_access": {
+          "score": 0,
+          "reasoning": "No indication of open access"
+        },
+        "appears_in_google_news": {
+          "score": 1,
+          "reasoning": "Globe and Mail typically appears in Google News for major stories"
+        },
+        "ranks_for_keywords": {
+          "score": 1.5,
+          "reasoning": "Likely to rank well for 'Canada stablecoin regulation' and related keywords"
+        },
+        "syndicated": {
+          "score": 0,
+          "reasoning": "No indication of syndication"
+        }
+      },
+      "summary": {
+        "overall_assessment": "Strong coverage in a top-tier outlet with positive messaging and good spokesperson positioning, though Coinbase appears late in the article and competes for attention with other industry voices. The coverage effectively communicates key regulatory milestone messaging.",
+        "strengths": [
+          "Tier 1 outlet placement",
+          "Strong positive sentiment",
+          "CEO quoted with compelling messaging",
+          "All high-priority messages covered",
+          "Associated with positive industry trends"
+        ],
+        "weaknesses": [
+          "Late mention in article",
+          "Low brand prominence",
+          "Multiple competitors mentioned",
+          "Limited focus on Coinbase specifically",
+          "No headline mention"
+        ],
+        "recommendations": [
+          "Seek earlier mention in similar stories",
+          "Push for more exclusive commentary opportunities",
+          "Provide more data/statistics to strengthen quotes",
+          "Work to differentiate from other industry voices"
+        ]
+      }
+    },
+    "summary": {
+      "overall_assessment": "Strong coverage in a top-tier outlet with positive messaging and good spokesperson positioning, though Coinbase appears late in the article and competes for attention with other industry voices. The coverage effectively communicates key regulatory milestone messaging.",
+      "strengths": [
+        "Tier 1 outlet placement",
+        "Strong positive sentiment",
+        "CEO quoted with compelling messaging",
+        "All high-priority messages covered",
+        "Associated with positive industry trends"
+      ],
+      "weaknesses": [
+        "Late mention in article",
+        "Low brand prominence",
+        "Multiple competitors mentioned",
+        "Limited focus on Coinbase specifically",
+        "No headline mention"
+      ],
+      "recommendations": [
+        "Seek earlier mention in similar stories",
+        "Push for more exclusive commentary opportunities",
+        "Provide more data/statistics to strengthen quotes",
+        "Work to differentiate from other industry voices"
+      ]
+    },
+    "id": "20260114155636072779",
+    "analyzed_at": "2026-01-14T15:56:36.072810"
+  },
+  {
+    "headline": "Crypto advocates want blockchain tech added to Canadian AI minister\u2019s portfolio",
+    "outlet": "betakit.com",
+    "author": "Madison McLauchlan",
+    "client": "Coinbase",
+    "url": "https://betakit.com/crypto-advocates-want-blockchain-tech-added-to-canadian-ai-ministers-portfolio/",
+    "total_score": 70.0,
+    "tier_scores": {
+      "tier_1_foundational": {
+        "name": "Tier 1 - Foundational",
+        "score": 22,
+        "max": 31
+      },
+      "tier_2_messaging": {
+        "name": "Tier 2 - Messaging & Voice",
+        "score": 18.5,
+        "max": 26
+      },
+      "tier_3_prominence": {
+        "name": "Tier 3 - Prominence & Position",
+        "score": 9,
+        "max": 14
+      },
+      "tier_4_credibility": {
+        "name": "Tier 4 - Credibility & Spokesperson",
+        "score": 8.0,
+        "max": 10
+      },
+      "tier_5_competitive": {
+        "name": "Tier 5 - Competitive Dynamics",
+        "score": 6.5,
+        "max": 9
+      },
+      "tier_6_audience_fit": {
+        "name": "Tier 6 - Outlet & Audience Fit",
+        "score": 4,
+        "max": 7
+      },
+      "tier_7_supporting": {
+        "name": "Tier 7 - Supporting Details",
+        "score": 1.0,
+        "max": 3
+      },
+      "bonus": {
+        "name": "Bonus Points",
+        "score": 1.0,
+        "max": 5
+      }
+    },
+    "detailed_scores": {
+      "tier_1_foundational": {
+        "outlet_tier": {
+          "score": 7,
+          "reasoning": "BetaKit is classified as Tier 1 in the metadata, earning full 7 points"
+        },
+        "overall_sentiment": {
+          "score": 6,
+          "reasoning": "Very positive sentiment - presents Coinbase's advocacy positively, describes them as a 'leading crypto exchange,' and frames their push for blockchain inclusion as forward-thinking"
+        },
+        "brand_in_headline": {
+          "score": 0,
+          "reasoning": "Coinbase is not mentioned in the headline 'Crypto advocates want blockchain tech added to Canadian AI minister's portfolio'"
+        },
+        "article_exclusively_about_client": {
+          "score": 2,
+          "reasoning": "Article is substantially about Coinbase and their advocacy efforts, though it also discusses broader industry perspectives from John Ruffolo and government responses"
+        },
+        "article_type": {
+          "score": 4,
+          "reasoning": "This is news coverage of Coinbase's advocacy efforts and policy positions - ideal earned media type"
+        },
+        "tone_toward_client": {
+          "score": 3,
+          "reasoning": "Very positive tone - presents Coinbase as a leader, describes their significant presence and investments, and frames their advocacy as constructive"
+        }
+      },
+      "tier_2_messaging": {
+        "key_messages_high": {
+          "score": 6,
+          "reasoning": "Found 2 high-priority messages: Canada's opportunity to lead on financial innovation and digital sovereignty, and the risk of falling behind other nations/becoming dependent on US stablecoins",
+          "messages_found": [
+            "Canada has an opportunity to lead again on financial innovation",
+            "Without clear rules, Canada risks falling behind other G7 nations and becoming dependent on U.S.-issued stablecoins"
+          ]
+        },
+        "key_messages_medium": {
+          "score": 1.5,
+          "reasoning": "Found 1 medium-priority message about other nations already having stablecoin regulations",
+          "messages_found": [
+            "The EU, U.S., Japan, and the U.K. have already implemented or drafted stablecoin regulations\u2014Canada is catching up"
+          ]
+        },
+        "key_messages_low": {
+          "score": 0,
+          "reasoning": "None of the low-priority messages (transaction fee comparisons, survey data, market size projections) were included",
+          "messages_found": []
+        },
+        "direct_quote_included": {
+          "score": 4,
+          "reasoning": "Multiple direct quotes from Lucas Matheson throughout the article, including substantial policy positions"
+        },
+        "number_of_quotes": {
+          "score": 3,
+          "reasoning": "More than 3 direct quotes from Coinbase spokesperson Lucas Matheson",
+          "quote_count": 5
+        },
+        "preferred_framing_used": {
+          "score": 3,
+          "reasoning": "Strong use of preferred framing around digital sovereignty, leadership opportunity, and competitive positioning versus other nations"
+        },
+        "data_stat_cited": {
+          "score": 1,
+          "reasoning": "Some statistics cited (99% of stablecoins pegged to USD, $500B+ assets under management) but not the preferred Coinbase statistics"
+        }
+      },
+      "tier_3_prominence": {
+        "brand_in_subhead": {
+          "score": 0,
+          "reasoning": "No subheadline present in the article"
+        },
+        "paragraph_first_mention": {
+          "score": 3,
+          "reasoning": "Coinbase is mentioned in the very first paragraph",
+          "paragraph_number": 1
+        },
+        "brand_in_opening": {
+          "score": 3,
+          "reasoning": "Coinbase is prominently featured in the opening paragraph as the main subject"
+        },
+        "percentage_focused_on_client": {
+          "score": 2,
+          "reasoning": "Approximately 60-70% of the article focuses on Coinbase's positions and advocacy efforts",
+          "percentage": 65
+        },
+        "brand_in_closing": {
+          "score": 0,
+          "reasoning": "The closing paragraphs focus on government response rather than Coinbase specifically"
+        },
+        "total_brand_mentions": {
+          "score": 1,
+          "reasoning": "Coinbase mentioned 6+ times throughout the article",
+          "mention_count": 6
+        }
+      },
+      "tier_4_credibility": {
+        "spokesperson_named": {
+          "score": 2.5,
+          "reasoning": "Lucas Matheson is clearly named as the spokesperson",
+          "spokesperson": "Lucas Matheson"
+        },
+        "framed_as_expert": {
+          "score": 2,
+          "reasoning": "Matheson is positioned as an expert on blockchain technology and policy, providing detailed technical and strategic insights"
+        },
+        "framed_as_innovator": {
+          "score": 1,
+          "reasoning": "Some framing as innovator through discussion of digital economy leadership and technological advancement"
+        },
+        "spokesperson_title": {
+          "score": 1.5,
+          "reasoning": "Full title provided: 'CEO of Coinbase Canada' - demonstrates senior authority",
+          "title": "CEO of Coinbase Canada"
+        },
+        "positive_trend_association": {
+          "score": 1,
+          "reasoning": "Associated with positive trends like digital sovereignty, AI integration, and financial innovation"
+        },
+        "problem_association": {
+          "score": 0,
+          "reasoning": "No negative problems or issues associated with Coinbase in the coverage"
+        }
+      },
+      "tier_5_competitive": {
+        "positioned_as_leader": {
+          "score": 2,
+          "reasoning": "Clearly positioned as a leader - described as 'leading crypto exchange' with '$500 billion USD assets under management'"
+        },
+        "mentioned_before_competitors": {
+          "score": 1.5,
+          "reasoning": "Coinbase is the primary focus and mentioned extensively before any competitive context"
+        },
+        "share_of_voice": {
+          "score": 1.5,
+          "reasoning": "Coinbase dominates the coverage with ~90% share of voice in crypto company mentions",
+          "client_share": 90
+        },
+        "competitors_mentioned": {
+          "score": 0,
+          "reasoning": "No direct competitors from the specified list (Kraken, Binance, WonderFi) are mentioned"
+        },
+        "more_quotes_than_competitors": {
+          "score": 1.5,
+          "reasoning": "Coinbase has 5+ quotes while competitors have zero quotes"
+        },
+        "number_competitors_mentioned": {
+          "score": 0,
+          "reasoning": "None of the specified competitors are mentioned",
+          "competitor_count": 0,
+          "competitors_found": []
+        },
+        "competitor_in_headline": {
+          "score": 0,
+          "reasoning": "No competitors mentioned in headline"
+        }
+      },
+      "tier_6_audience_fit": {
+        "outlet_industry_relevance": {
+          "score": 2,
+          "reasoning": "BetaKit covers fintech and crypto extensively - perfect industry alignment"
+        },
+        "outlet_audience_relevance": {
+          "score": 2,
+          "reasoning": "BetaKit's audience includes Canadian tech industry, investors, and policy makers - highly relevant for Coinbase's advocacy message"
+        },
+        "monthly_reach": {
+          "score": 0,
+          "reasoning": "Outlet reach listed as 0 in metadata"
+        },
+        "social_following": {
+          "score": 0,
+          "reasoning": "No social following data provided"
+        }
+      },
+      "tier_7_supporting": {
+        "cta_or_product_mention": {
+          "score": 0,
+          "reasoning": "No call-to-action or specific product mentions"
+        },
+        "image_includes_client": {
+          "score": 0,
+          "reasoning": "No information provided about images"
+        },
+        "article_length": {
+          "score": 0.5,
+          "reasoning": "Substantial article length (~800+ words) providing comprehensive coverage",
+          "word_count": 850
+        },
+        "brand_only_in_headline": {
+          "score": 0,
+          "reasoning": "Brand is not in headline"
+        },
+        "exclusive_story": {
+          "score": 0.5,
+          "reasoning": "Appears to include exclusive interview content with BetaKit"
+        },
+        "journalist_covered_before": {
+          "score": 0,
+          "reasoning": "No information provided about journalist's previous coverage"
+        }
+      },
+      "bonus": {
+        "journalist_beat_alignment": {
+          "score": 0.5,
+          "reasoning": "Madison McLauchlan covers crypto and fintech topics, showing good beat alignment"
+        },
+        "open_access": {
+          "score": 0.5,
+          "reasoning": "BetaKit typically provides open access to articles"
+        },
+        "appears_in_google_news": {
+          "score": 0,
+          "reasoning": "No information provided about Google News inclusion"
+        },
+        "ranks_for_keywords": {
+          "score": 0,
+          "reasoning": "No keyword ranking data provided"
+        },
+        "syndicated": {
+          "score": 0,
+          "reasoning": "No indication of syndication"
+        }
+      },
+      "summary": {
+        "overall_assessment": "This is high-quality coverage that positions Coinbase as a thought leader in Canadian crypto policy advocacy. The article effectively communicates key messages around digital sovereignty and competitive positioning while maintaining a very positive tone throughout.",
+        "strengths": [
+          "Prominent placement in tier 1 outlet",
+          "Multiple direct quotes from senior spokesperson",
+          "Strong messaging on digital sovereignty and leadership",
+          "Positioned as industry leader",
+          "Comprehensive policy-focused coverage",
+          "Exclusive interview elements"
+        ],
+        "weaknesses": [
+          "Brand not in headline",
+          "Missing preferred statistics and data points",
+          "Limited product/service mentions",
+          "Some key messages not fully developed",
+          "No visual elements mentioned"
+        ],
+        "recommendations": [
+          "Pitch follow-up stories with headline inclusion",
+          "Provide journalists with key statistics for future coverage",
+          "Develop more specific product narratives",
+          "Create visual assets for digital coverage",
+          "Continue building relationships with BetaKit for ongoing coverage"
+        ]
+      }
+    },
+    "summary": {
+      "overall_assessment": "This is high-quality coverage that positions Coinbase as a thought leader in Canadian crypto policy advocacy. The article effectively communicates key messages around digital sovereignty and competitive positioning while maintaining a very positive tone throughout.",
+      "strengths": [
+        "Prominent placement in tier 1 outlet",
+        "Multiple direct quotes from senior spokesperson",
+        "Strong messaging on digital sovereignty and leadership",
+        "Positioned as industry leader",
+        "Comprehensive policy-focused coverage",
+        "Exclusive interview elements"
+      ],
+      "weaknesses": [
+        "Brand not in headline",
+        "Missing preferred statistics and data points",
+        "Limited product/service mentions",
+        "Some key messages not fully developed",
+        "No visual elements mentioned"
+      ],
+      "recommendations": [
+        "Pitch follow-up stories with headline inclusion",
+        "Provide journalists with key statistics for future coverage",
+        "Develop more specific product narratives",
+        "Create visual assets for digital coverage",
+        "Continue building relationships with BetaKit for ongoing coverage"
+      ]
+    },
+    "id": "20260114154800115015",
+    "analyzed_at": "2026-01-14T15:48:00.115083"
+  }
+]
