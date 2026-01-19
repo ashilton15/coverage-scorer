@@ -9,7 +9,18 @@ from datetime import datetime
 
 # Configuration
 CREDENTIALS_PATH = Path(__file__).parent.parent / "credentials.json"
-SPREADSHEET_ID = "1JIXvOCmy2duAUjLaj1m1WDtD-onCoP1mjxn8AzBcTTc"
+DEFAULT_SPREADSHEET_ID = "1JIXvOCmy2duAUjLaj1m1WDtD-onCoP1mjxn8AzBcTTc"
+
+
+def get_spreadsheet_id() -> str:
+    """Get the Google Spreadsheet ID.
+
+    Tries Streamlit secrets first (for Streamlit Cloud deployment),
+    falls back to hardcoded default (for local development).
+    """
+    if "SPREADSHEET_ID" in st.secrets:
+        return st.secrets["SPREADSHEET_ID"]
+    return DEFAULT_SPREADSHEET_ID
 
 # Sheet names
 CLIENTS_SHEET = "Clients"
@@ -62,7 +73,7 @@ def get_spreadsheet():
     global _spreadsheet
     if _spreadsheet is None:
         client = get_client()
-        _spreadsheet = client.open_by_key(SPREADSHEET_ID)
+        _spreadsheet = client.open_by_key(get_spreadsheet_id())
     return _spreadsheet
 
 
