@@ -1,6 +1,7 @@
 """Google Sheets integration for data persistence."""
 import json
 import gspread
+import streamlit as st
 from google.oauth2.service_account import Credentials
 from pathlib import Path
 from typing import Any, Dict, List, Optional
@@ -33,13 +34,25 @@ _spreadsheet = None
 
 
 def get_client():
-    """Get or create authenticated gspread client."""
+    """Get or create authenticated gspread client.
+
+    Tries Streamlit secrets first (for Streamlit Cloud deployment),
+    falls back to local credentials.json file (for local development).
+    """
     global _client
     if _client is None:
-        credentials = Credentials.from_service_account_file(
-            str(CREDENTIALS_PATH),
-            scopes=SCOPES
-        )
+        # Try Streamlit secrets first (Streamlit Cloud)
+        if "gcp_service_account" in st.secrets:
+            credentials = Credentials.from_service_account_info(
+                st.secrets["gcp_service_account"],
+                scopes=SCOPES
+            )
+        else:
+            # Fall back to local credentials file
+            credentials = Credentials.from_service_account_file(
+                str(CREDENTIALS_PATH),
+                scopes=SCOPES
+            )
         _client = gspread.authorize(credentials)
     return _client
 

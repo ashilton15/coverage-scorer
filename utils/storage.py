@@ -1,6 +1,7 @@
 """Storage utilities for data persistence with Google Sheets integration."""
 import json
 import os
+import streamlit as st
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 from datetime import datetime
@@ -118,7 +119,15 @@ def save_config(config: Dict) -> None:
     save_json("config.json", config)
 
 def get_api_key() -> str:
-    """Get the Anthropic API key."""
+    """Get the Anthropic API key.
+
+    Tries Streamlit secrets first (for Streamlit Cloud deployment),
+    falls back to local config file (for local development).
+    """
+    # Try Streamlit secrets first (Streamlit Cloud)
+    if "ANTHROPIC_API_KEY" in st.secrets:
+        return st.secrets["ANTHROPIC_API_KEY"]
+    # Fall back to local config
     return get_config().get("api_key", "")
 
 def save_api_key(api_key: str) -> None:
